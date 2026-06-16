@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="60,80" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <text id="n3_edc1" name="title" xy="-2,18" size="64,42" fontSize="30" color="#eef0fa" align="center" vAlign="middle" text="注册">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button sound="ui://xsbz3guosu8j1g" downEffect="scale" downEffectValue=".95"/>
+</component>

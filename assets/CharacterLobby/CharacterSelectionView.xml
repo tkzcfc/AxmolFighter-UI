@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <image id="n0_su8j" name="n0" src="su8j1e" fileName="Images/img_bg_chr_select.png" xy="0,0" size="1280,720"/>
+    <image id="n1_su8j" name="n1" src="su8j1c" fileName="Images/img_title_select_chr.png" xy="546,30" size="188,52" aspect="true"/>
+    <component id="n5_su8j" name="n5" src="su8j1n" fileName="StartGameButton.xml" xy="550,599" size="180,83" aspect="true"/>
+    <component id="n6_su8j" name="n6" src="edc1y" fileName="Widgets/ButtonGeneral/ButtonGeneral.xml" pkg="xsbz3guo" xy="317,621" size="120,35">
+      <Button title="创建角色"/>
+    </component>
+    <component id="n7_su8j" name="n7" src="edc1y" fileName="Widgets/ButtonGeneral/ButtonGeneral.xml" pkg="xsbz3guo" xy="848,621" size="120,35">
+      <Button title="结束游戏"/>
+    </component>
+    <image id="n10_su8j" name="n10" src="su8j1l" fileName="Images/img_frame_bg_3.png" pkg="xsbz3guo" xy="66,93" size="1147,481"/>
+  </displayList>
+</component>

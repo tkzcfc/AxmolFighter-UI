@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <controller name="c1" pages="0,,1,,2," selected="0">
+    <action type="play_transition" fromPage="" toPage="" transition="t0"/>
+    <action type="change_page" fromPage="" toPage="" controller="c2" targetPage="0"/>
+  </controller>
+  <controller name="c2" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n0_su8j" name="n0" src="su8je" fileName="Images/img_bg.png" xy="0,0" size="1280,720"/>
+    <loader id="n8_su8j" name="n8" xy="180,0" size="1280,720" url="ui://yepb0cf9su8j9" fill="scale">
+      <gearIcon controller="c1" pages="1,2" values="ui://yepb0cf9su8jx|ui://yepb0cf9su8jw" default="ui://yepb0cf9su8j9"/>
+    </loader>
+    <loader id="n1_su8j" name="n1" xy="873,169" size="312,119" url="ui://yepb0cf9su8j1d">
+      <gearIcon controller="c1" pages="1,2" values="ui://yepb0cf9su8j10|ui://yepb0cf9su8j11" default="ui://yepb0cf9su8j1d"/>
+    </loader>
+    <image id="n2_su8j" name="n2" src="su8jf" fileName="Images/img_title_create_chr.png" xy="546,30" size="188,52" aspect="true"/>
+    <loader id="n4_su8j" name="n4" xy="892,490" size="273,92" url="ui://yepb0cf9su8j8">
+      <gearIcon controller="c1" pages="1,2" values="ui://yepb0cf9su8j12|ui://yepb0cf9su8j13" default="ui://yepb0cf9su8j8"/>
+    </loader>
+    <loader id="n5_su8j" name="n5" xy="873,337" size="312,125" url="ui://yepb0cf9su8jl">
+      <gearIcon controller="c1" pages="1,2" values="ui://yepb0cf9su8j15|ui://yepb0cf9su8j14" default="ui://yepb0cf9su8jl"/>
+    </loader>
+    <list id="n7_su8j" name="n7" xy="79,73" size="77,573" overflow="scroll" lineGap="10" selectionController="c1">
+      <item url="ui://yepb0cf9su8jn"/>
+      <item url="ui://yepb0cf9su8jz"/>
+      <item url="ui://yepb0cf9su8jy"/>
+    </list>
+    <component id="n9_su8j" name="n9" src="edc1y" fileName="Widgets/ButtonGeneral/ButtonGeneral.xml" pkg="xsbz3guo" xy="1045,655" size="120,24">
+      <Button title="上一页面"/>
+    </component>
+    <component id="n10_su8j" name="n10" src="su8j16" fileName="CreateChrButton.xml" xy="578,636">
+      <gearDisplay controller="c2" pages="0"/>
+      <Button controller="c2" page="1"/>
+    </component>
+    <component id="n12_su8j" name="n12" src="su8j1i" fileName="Widgets/InputBoxGeneral.xml" pkg="xsbz3guo" xy="530,596" size="220,30">
+      <gearDisplay controller="c2" pages="1"/>
+    </component>
+    <image id="n13_su8j" name="n13" src="su8jj" fileName="Images/img_title_input_name.png" xy="530,568" size="150,25" aspect="true">
+      <gearDisplay controller="c2" pages="1"/>
+    </image>
+    <component id="n14_su8j" name="n14" src="edc1y" fileName="Widgets/ButtonGeneral/ButtonGeneral.xml" pkg="xsbz3guo" xy="549,645" size="84,24">
+      <gearDisplay controller="c2" pages="1"/>
+      <Button title="确认"/>
+    </component>
+    <component id="n15_su8j" name="n15" src="edc1y" fileName="Widgets/ButtonGeneral/ButtonGeneral.xml" pkg="xsbz3guo" xy="656,645" size="84,24">
+      <gearDisplay controller="c2" pages="1"/>
+      <Button title="取消" controller="c2" page="0"/>
+    </component>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="XY" target="n8_su8j" tween="true" startValue="-613,0" endValue="180,0" duration="12"/>
+  </transition>
+</component>

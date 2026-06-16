@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="yepb0cf9">
+  <resources>
+    <image id="su8j1d" name="img_hero_name_1.png" path="/Images/"/>
+    <image id="su8j8" name="img_attri_1.png" path="/Images/"/>
+    <image id="su8j9" name="img_hero_1.png" path="/Images/"/>
+    <image id="su8ja" name="sw_icon_btn_1.png" path="/Images/"/>
+    <image id="su8jb" name="sw_icon_btn_2.png" path="/Images/"/>
+    <image id="su8jc" name="sw_icon_btn_3.png" path="/Images/"/>
+    <image id="su8jd" name="sw_icon_btn_4.png" path="/Images/"/>
+    <image id="su8je" name="img_bg_chr_create.png" path="/Images/"/>
+    <image id="su8jf" name="img_title_create_chr.png" path="/Images/"/>
+    <image id="su8jg" name="img_btn_create_chr_1.png" path="/Images/"/>
+    <image id="su8jh" name="img_btn_create_chr_2.png" path="/Images/"/>
+    <image id="su8ji" name="img_btn_create_chr_3.png" path="/Images/"/>
+    <image id="su8jj" name="img_title_input_name.png" path="/Images/"/>
+    <component id="su8jk" name="CharacterCreationPanel.xml" path="/" exported="true"/>
+    <image id="su8jl" name="img_info_1.png" path="/Images/"/>
+    <component id="su8jn" name="CharactorSelect_SW.xml" path="/"/>
+    <image id="su8jo" name="nq_icon_btn_1.png" path="/Images/"/>
+    <image id="su8jp" name="nq_icon_btn_2.png" path="/Images/"/>
+    <image id="su8jq" name="nq_icon_btn_3.png" path="/Images/"/>
+    <image id="su8jr" name="nq_icon_btn_4.png" path="/Images/"/>
+    <image id="su8js" name="mj_icon_btn_1.png" path="/Images/"/>
+    <image id="su8jt" name="mj_icon_btn_2.png" path="/Images/"/>
+    <image id="su8ju" name="mj_icon_btn_3.png" path="/Images/"/>
+    <image id="su8jv" name="mj_icon_btn_4.png" path="/Images/"/>
+    <image id="su8jw" name="img_hero_3.png" path="/Images/"/>
+    <image id="su8jx" name="img_hero_2.png" path="/Images/"/>
+    <component id="su8jy" name="CharactorSelect_MJ.xml" path="/"/>
+    <component id="su8jz" name="CharactorSelect_NQ.xml" path="/"/>
+    <image id="su8j10" name="img_hero_name_2.png" path="/Images/"/>
+    <image id="su8j11" name="img_hero_name_3.png" path="/Images/"/>
+    <image id="su8j12" name="img_attri_2.png" path="/Images/"/>
+    <image id="su8j13" name="img_attri_3.png" path="/Images/"/>
+    <image id="su8j14" name="img_info_3.png" path="/Images/"/>
+    <image id="su8j15" name="img_info_2.png" path="/Images/"/>
+    <component id="su8j16" name="CreateChrButton.xml" path="/"/>
+    <image id="su8j17" name="btn_start_game_3.png" path="/Images/"/>
+    <image id="su8j18" name="btn_start_game_4.png" path="/Images/"/>
+    <image id="su8j19" name="btn_start_game_1.png" path="/Images/"/>
+    <image id="su8j1a" name="btn_start_game_2.png" path="/Images/"/>
+    <image id="su8j1b" name="15.png" path="/Images/"/>
+    <image id="su8j1c" name="img_title_select_chr.png" path="/Images/"/>
+    <image id="su8j1e" name="img_bg_chr_select.png" path="/Images/"/>
+    <image id="su8j1f" name="11.png" path="/Images/"/>
+    <image id="su8j1g" name="12.png" path="/Images/"/>
+    <image id="su8j1h" name="16.png" path="/Images/"/>
+    <component id="su8j1l" name="CharacterSelectionView.xml" path="/" exported="true"/>
+    <image id="su8j1m" name="34.png" path="/Images/" scale="9grid" scale9grid="49,76,98,152"/>
+    <component id="su8j1n" name="StartGameButton.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

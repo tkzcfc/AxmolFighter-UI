@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <image id="n1_edc1" name="n1" src="edc10" fileName="Images/img_bg.png" xy="0,0" size="1280,720" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_edc1" name="n2" src="edc11" fileName="Images/img_icon.png" xy="535,416">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <component id="n0_pi8u" name="progressBar" src="pi8u1" fileName="Widgets/ProgressBar1.xml" xy="365,613" size="550,11">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <ProgressBar value="23" max="100"/>
+    </component>
+  </displayList>
+</component>

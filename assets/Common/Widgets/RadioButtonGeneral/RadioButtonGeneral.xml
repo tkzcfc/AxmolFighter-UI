@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="56,24" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver,9,disabled,10,selectedDisabled" selected="0"/>
+  <displayList>
+    <text id="n5_edc1" name="title" xy="20,0" size="33,24" font="ui://xsbz3guoedc18" fontSize="12" color="#997c40" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" text="按钮">
+      <gearLook controller="button" pages="9,10" values="0.5,0,0,0|0.5,0,0,0" default="1,0,0,0"/>
+      <gearColor controller="button" pages="9,10" values="#dfdfdf,#000000|#dfdfdf,#000000" default="#997c40,#000000"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <image id="n7_edc1" name="n7" src="edc116" fileName="Widgets/RadioButtonGeneral/img_radio_button_selected.png" xy="3,3">
+      <gearDisplay controller="button" pages="1,3,10"/>
+    </image>
+    <image id="n8_edc1" name="n8" src="edc117" fileName="Widgets/RadioButtonGeneral/img_radio_button_disabled.png" xy="3,3">
+      <gearDisplay controller="button" pages="0,2,9,10"/>
+    </image>
+  </displayList>
+  <Button mode="Radio" sound="ui://xsbz3guosu8j1g"/>
+</component>

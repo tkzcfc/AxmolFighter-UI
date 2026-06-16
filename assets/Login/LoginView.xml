@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" overflow="hidden">
+  <displayList>
+    <image id="n11_edc1" name="n11" src="edc1h" fileName="Images/bg_2.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+</component>

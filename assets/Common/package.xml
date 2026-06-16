@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="xsbz3guo">
+  <resources>
+    <image id="edc14" name="ui_toast_bg.png" path="/Images/" exported="true"/>
+    <component id="edc17" name="Component1.xml" path="/"/>
+    <font id="edc18" name="Faint-DNF-Song-12px-Medium.ttf" path="/Fonts/" exported="true" renderMode="" samplePointSize="16"/>
+    <image id="edc1g" name="btn_close_normal.png" path="/Widgets/ButtonClose/"/>
+    <image id="edc1h" name="btn_close_hover.png" path="/Widgets/ButtonClose/"/>
+    <image id="edc1i" name="btn_close_pressed.png" path="/Widgets/ButtonClose/"/>
+    <image id="edc1j" name="btn_close_disabled.png" path="/Widgets/ButtonClose/"/>
+    <image id="edc1m" name="img_black.png" path="/Images/" exported="true" scale="9grid" scale9grid="57,14,114,28"/>
+    <image id="edc1n" name="img_frame_bar_bg.png" path="/Images/" exported="true" scale="9grid" scale9grid="43,6,86,12"/>
+    <image id="edc1o" name="img_frame_bg.png" path="/Images/" exported="true" scale="9grid" scale9grid="11,8,22,16"/>
+    <image id="edc1p" name="img_btn_general_pressed.png" path="/Widgets/ButtonGeneral/" scale="9grid" scale9grid="14,6,28,12"/>
+    <image id="edc1q" name="img_btn_general_disabled.png" path="/Widgets/ButtonGeneral/" scale="9grid" scale9grid="14,6,28,12"/>
+    <image id="edc1w" name="img_btn_general_normal.png" path="/Widgets/ButtonGeneral/" scale="9grid" scale9grid="14,6,28,12"/>
+    <image id="edc1x" name="img_btn_general_hover.png" path="/Widgets/ButtonGeneral/" scale="9grid" scale9grid="14,6,28,12"/>
+    <component id="edc1y" name="ButtonGeneral.xml" path="/Widgets/ButtonGeneral/" exported="true"/>
+    <image id="edc113" name="img_checkbox_normal.png" path="/Widgets/CheckBoxGeneral/"/>
+    <image id="edc114" name="img_checkbox_selected.png" path="/Widgets/CheckBoxGeneral/"/>
+    <image id="edc115" name="img_radio_button_normal.png" path="/Widgets/RadioButtonGeneral/"/>
+    <image id="edc116" name="img_radio_button_selected.png" path="/Widgets/RadioButtonGeneral/"/>
+    <image id="edc117" name="img_radio_button_disabled.png" path="/Widgets/RadioButtonGeneral/"/>
+    <component id="edc118" name="CheckBoxGeneral.xml" path="/Widgets/CheckBoxGeneral/"/>
+    <component id="edc11a" name="RadioButtonGeneral.xml" path="/Widgets/RadioButtonGeneral/"/>
+    <component id="edc11b" name="MessagePopup.xml" path="/Widgets/" exported="true"/>
+    <component id="edc11c" name="ButtonClose.xml" path="/Widgets/ButtonClose/"/>
+    <sound id="su8j1e" name="click_in.ogg" path="/Audio/" exported="true"/>
+    <sound id="su8j1f" name="click_out.ogg" path="/Audio/" exported="true"/>
+    <sound id="su8j1g" name="click_1.ogg" path="/Audio/" exported="true"/>
+    <sound id="su8j1h" name="click_2.ogg" path="/Audio/" exported="true"/>
+    <image id="su8j1k" name="img_input_bg.png" path="/Images/" exported="true" scale="9grid" scale9grid="26,3,52,1"/>
+    <component id="su8j1i" name="InputBoxGeneral.xml" path="/Widgets/" exported="true"/>
+    <image id="su8j1j" name="img_frame_bg_2.png" path="/Images/" exported="true" scale="9grid" scale9grid="15,15,30,30"/>
+    <image id="su8j1l" name="img_frame_bg_3.png" path="/Images/" exported="true" scale="9grid" scale9grid="15,15,30,30"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

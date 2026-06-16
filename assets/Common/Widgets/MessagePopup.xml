@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="190,120" restrictSize="190,0,120,0">
+  <controller name="c1" pages="0,single,1,double" selected="0"/>
+  <displayList>
+    <image id="n0_edc1" name="n0" src="edc1o" fileName="Images/img_frame_bg.png" xy="0,0" size="190,120">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_edc1" name="n1" src="edc1n" fileName="Images/img_frame_bar_bg.png" xy="1,0" size="188,26">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <component id="n2_edc1" name="closeButton" src="edc11c" fileName="Widgets/ButtonClose/ButtonClose.xml" xy="163,0" size="26,23" aspect="true">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <text id="n3_edc1" name="title" xy="79,1" size="31,24" font="ui://xsbz3guoedc18" fontSize="12" color="#997c40" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" text="公告">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <component id="n5_edc1" name="confirmButtonCenter" src="edc1y" fileName="Widgets/ButtonGeneral/ButtonGeneral.xml" xy="66,87">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="确认"/>
+    </component>
+    <text id="n6_edc1" name="textContent" xy="5,49" size="179,19" font="ui://xsbz3guoedc18" fontSize="12" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="AAAAAAAAAAAAAAAAAAAAAAAAA">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n7_edc1" name="confirmButton" src="edc1y" fileName="Widgets/ButtonGeneral/ButtonGeneral.xml" xy="18,87">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="确认"/>
+    </component>
+    <component id="n8_edc1" name="cancelButton" src="edc1y" fileName="Widgets/ButtonGeneral/ButtonGeneral.xml" xy="115,87">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="取消"/>
+    </component>
+  </displayList>
+  <relation target="n6_edc1" sidePair="height-height"/>
+  <customProperty target="content" propertyId="0" label="内容"/>
+</component>

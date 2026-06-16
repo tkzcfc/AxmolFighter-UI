@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="mmcfj5y4">
+  <resources>
+    <component id="dy830" name="LaunchView.xml" path="/" exported="true"/>
+    <image id="edc10" name="img_bg.png" path="/Images/"/>
+    <component id="pi8u1" name="ProgressBar1.xml" path="/Widgets/"/>
+    <image id="edc11" name="img_icon.png" path="/Images/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="m7cln76g">
+  <resources>
+    <component id="edc13" name="LoginView.xml" path="/" exported="true"/>
+    <image id="edc1g" name="bg_1.png" path="/Images/"/>
+    <image id="edc1h" name="bg_2.png" path="/Images/"/>
+    <component id="edc1m" name="InputBox.xml" path="/Widgets/"/>
+    <component id="edc1q" name="ButtonBlue.xml" path="/Widgets/"/>
+    <image id="edc110" name="input_box_default.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
+    <image id="edc111" name="input_box_hover.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
+    <image id="edc112" name="back_button.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
+    <image id="edc113" name="dialog_bg.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
+    <image id="edc114" name="primary_button_hover.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
+    <image id="edc115" name="primary_button_press.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
+    <image id="edc116" name="primary_button_default.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
+    <image id="edc117" name="primary_button_disabled.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
+    <component id="edc118" name="InputBoxPassWord.xml" path="/Widgets/"/>
+    <component id="edc119" name="LoginPanel.xml" path="/" exported="true"/>
+    <component id="edc11a" name="ButtonNoBg.xml" path="/Widgets/"/>
+    <component id="edc11c" name="RegisterPanel.xml" path="/" exported="true"/>
+    <component id="edc11d" name="ButtonBack.xml" path="/Widgets/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

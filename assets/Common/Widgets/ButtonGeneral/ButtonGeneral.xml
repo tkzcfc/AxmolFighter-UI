@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="56,24" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver,9,disabled,10,selectedDisabled" selected="0"/>
+  <displayList>
+    <image id="n0_edc1" name="n0" src="edc1w" fileName="Widgets/ButtonGeneral/img_btn_general_normal.png" xy="0,0">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_edc1" name="n1" src="edc1p" fileName="Widgets/ButtonGeneral/img_btn_general_pressed.png" xy="0,0">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_edc1" name="n2" src="edc1x" fileName="Widgets/ButtonGeneral/img_btn_general_hover.png" xy="0,0">
+      <gearDisplay controller="button" pages="2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n3_edc1" name="n3" src="edc1p" fileName="Widgets/ButtonGeneral/img_btn_general_pressed.png" xy="0,0">
+      <gearDisplay controller="button" pages="3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n4_edc1" name="n4" src="edc1q" fileName="Widgets/ButtonGeneral/img_btn_general_disabled.png" xy="0,0">
+      <gearDisplay controller="button" pages="9,10"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n5_edc1" name="title" xy="0,0" size="56,24" font="ui://xsbz3guoedc18" fontSize="12" color="#997c40" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" text="按钮">
+      <gearLook controller="button" pages="9,10" values="0.5,0,0,0|0.5,0,0,0" default="1,0,0,0"/>
+      <gearColor controller="button" pages="1,2,9,10" values="#cda556,#000000|#cda556,#000000|#dfdfdf,#000000|#dfdfdf,#000000" default="#997c40,#000000"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button sound="ui://xsbz3guosu8j1g"/>
+</component>
