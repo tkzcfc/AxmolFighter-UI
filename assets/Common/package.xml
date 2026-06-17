@@ -33,6 +33,7 @@
     <component id="su8j1i" name="InputBoxGeneral.xml" path="/Widgets/" exported="true"/>
     <image id="su8j1j" name="img_frame_bg_2.png" path="/Images/" exported="true" scale="9grid" scale9grid="15,15,30,30"/>
     <image id="su8j1l" name="img_frame_bg_3.png" path="/Images/" exported="true" scale="9grid" scale9grid="15,15,30,30"/>
+    <component id="h8e31m" name="ConnectMaskLayer.xml" path="/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

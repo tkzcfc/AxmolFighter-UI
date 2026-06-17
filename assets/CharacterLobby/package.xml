@@ -3,12 +3,12 @@
   <resources>
     <image id="su8j1d" name="img_hero_name_1.png" path="/Images/"/>
     <image id="su8j8" name="img_attri_1.png" path="/Images/"/>
-    <image id="su8j9" name="img_hero_1.png" path="/Images/"/>
+    <image id="su8j9" name="img_hero_1.png" path="/Images/Alone/"/>
     <image id="su8ja" name="sw_icon_btn_1.png" path="/Images/"/>
     <image id="su8jb" name="sw_icon_btn_2.png" path="/Images/"/>
     <image id="su8jc" name="sw_icon_btn_3.png" path="/Images/"/>
     <image id="su8jd" name="sw_icon_btn_4.png" path="/Images/"/>
-    <image id="su8je" name="img_bg_chr_create.png" path="/Images/"/>
+    <image id="su8je" name="img_bg_chr_create.png" path="/Images/Alone/"/>
     <image id="su8jf" name="img_title_create_chr.png" path="/Images/"/>
     <image id="su8jg" name="img_btn_create_chr_1.png" path="/Images/"/>
     <image id="su8jh" name="img_btn_create_chr_2.png" path="/Images/"/>
@@ -25,8 +25,8 @@
     <image id="su8jt" name="mj_icon_btn_2.png" path="/Images/"/>
     <image id="su8ju" name="mj_icon_btn_3.png" path="/Images/"/>
     <image id="su8jv" name="mj_icon_btn_4.png" path="/Images/"/>
-    <image id="su8jw" name="img_hero_3.png" path="/Images/"/>
-    <image id="su8jx" name="img_hero_2.png" path="/Images/"/>
+    <image id="su8jw" name="img_hero_3.png" path="/Images/Alone/"/>
+    <image id="su8jx" name="img_hero_2.png" path="/Images/Alone/"/>
     <component id="su8jy" name="CharactorSelect_MJ.xml" path="/"/>
     <component id="su8jz" name="CharactorSelect_NQ.xml" path="/"/>
     <image id="su8j10" name="img_hero_name_2.png" path="/Images/"/>
@@ -42,13 +42,17 @@
     <image id="su8j1a" name="btn_start_game_2.png" path="/Images/"/>
     <image id="su8j1b" name="15.png" path="/Images/"/>
     <image id="su8j1c" name="img_title_select_chr.png" path="/Images/"/>
-    <image id="su8j1e" name="img_bg_chr_select.png" path="/Images/"/>
-    <image id="su8j1f" name="11.png" path="/Images/"/>
-    <image id="su8j1g" name="12.png" path="/Images/"/>
-    <image id="su8j1h" name="16.png" path="/Images/"/>
-    <component id="su8j1l" name="CharacterSelectionView.xml" path="/" exported="true"/>
-    <image id="su8j1m" name="34.png" path="/Images/" scale="9grid" scale9grid="49,76,98,152"/>
+    <image id="su8j1e" name="img_bg_chr_select.png" path="/Images/Alone/"/>
+    <component id="su8j1l" name="CharacterLobbyView.xml" path="/" exported="true"/>
     <component id="su8j1n" name="StartGameButton.xml" path="/"/>
+    <component id="qn651o" name="CharacterItem.xml" path="/" exported="true"/>
+    <image id="qn651e" name="img_chr_item_bottom_g_2.png" path="/Images/"/>
+    <image id="h8e31p" name="img_chr_item_bottom_g_1.png" path="/Images/"/>
+    <image id="h8e31q" name="img_chr_item_fg_3.png" path="/Images/"/>
+    <image id="h8e31s" name="img_chr_item_fg_1.png" path="/Images/" scale="9grid" scale9grid="29,51,58,102"/>
+    <image id="h8e31t" name="img_fg_blue.png" path="/Images/" scale="9grid" scale9grid="73,9,146,18"/>
+    <image id="h8e31v" name="img_chr_item_fg_2.png" path="/Images/" scale="9grid" scale9grid="29,51,58,102"/>
+    <folder id="/Images/Alone/" name="Alone" path="/Images/" atlas="alone_npot"/>
   </resources>
   <publish name=""/>
 </packageDescription>

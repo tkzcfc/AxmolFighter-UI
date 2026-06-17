@@ -5,7 +5,7 @@
     <image id="n4_su8j" name="n4" src="su8j1k" fileName="Images/img_input_bg.png" xy="0,0" size="150,30">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <text id="n2_edc1" name="title" xy="2,0" size="145,29" fontSize="20" color="#eef0fa" vAlign="middle" leading="0" autoSize="none" singleLine="true" autoClearText="true" text="AAAAA" input="true" keyboardType="1">
+    <text id="n2_edc1" name="input" xy="2,0" size="145,29" fontSize="20" color="#eef0fa" vAlign="middle" leading="0" autoSize="none" singleLine="true" autoClearText="true" text="AAAAA" input="true" keyboardType="1">
       <relation target="" sidePair="width-width,height-height"/>
     </text>
   </displayList>

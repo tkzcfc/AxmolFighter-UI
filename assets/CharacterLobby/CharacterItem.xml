@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,220" overflow="hidden" extention="Button">
+  <controller name="button" pages="2,up,3,down,4,over,5,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n5_h8e3" name="n5" src="h8e31p" fileName="Images/img_chr_item_bottom_g_1.png" xy="5,135">
+      <gearDisplay controller="button" pages="2,4"/>
+      <relation target="" sidePair="center-center"/>
+    </image>
+    <image id="n6_h8e3" name="n6" src="qn651e" fileName="Images/img_chr_item_bottom_g_2.png" xy="5,135">
+      <gearDisplay controller="button" pages="3,5"/>
+      <relation target="" sidePair="center-center"/>
+    </image>
+    <image id="n14_h8e3" name="n14" src="h8e31v" fileName="Images/img_chr_item_fg_2.png" xy="2,4" size="125,211" aspect="true" alpha="0.4">
+      <gearDisplay controller="button" pages="4"/>
+    </image>
+    <image id="n15_h8e3" name="n15" src="h8e31v" fileName="Images/img_chr_item_fg_2.png" xy="2,4" size="125,211" aspect="true">
+      <gearDisplay controller="button" pages="3,5"/>
+    </image>
+    <text id="n16_h8e3" name="nameText" xy="40,176" size="50,19" font="ui://xsbz3guoedc18" fontSize="12" color="#997c40" align="center" vAlign="middle" strokeColor="#000000" singleLine="true" autoClearText="true" text="Lv1 名字"/>
+    <text id="n17_h8e3" name="professionText" xy="45,191" size="40,19" font="ui://xsbz3guoedc18" fontSize="12" color="#997c40" align="center" vAlign="middle" strokeColor="#000000" singleLine="true" autoClearText="true" text="鬼剑士"/>
+    <loader3D id="n18_h8e3" name="avatarLoader" xy="15,2" size="100,157" animation="" skin="" loop="true"/>
+  </displayList>
+  <Button mode="Radio" sound="ui://xsbz3guosu8j1g"/>
+</component>

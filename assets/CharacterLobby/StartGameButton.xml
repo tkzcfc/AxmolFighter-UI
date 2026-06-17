@@ -22,5 +22,5 @@
       <gearDisplay controller="button" pages="4,5"/>
     </image>
   </displayList>
-  <Button/>
+  <Button sound="ui://xsbz3guosu8j1g"/>
 </component>
