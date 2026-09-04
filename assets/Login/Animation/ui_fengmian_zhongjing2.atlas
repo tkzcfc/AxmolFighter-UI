@@ -1,0 +1,272 @@
+
+ui_fengmian_zhongjing2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fdatui
+  rotate: false
+  xy: 1360, 866
+  size: 122, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+Flian
+  rotate: true
+  xy: 1564, 860
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+Fshangshen
+  rotate: true
+  xy: 660, 769
+  size: 111, 174
+  orig: 111, 174
+  offset: 0, 0
+  index: -1
+Fshangshen1
+  rotate: false
+  xy: 238, 898
+  size: 46, 21
+  orig: 57, 36
+  offset: 0, 15
+  index: -1
+Fshi
+  rotate: false
+  xy: 2, 2
+  size: 2024, 633
+  orig: 2024, 851
+  offset: 0, 0
+  index: -1
+Ftoufa1
+  rotate: true
+  xy: 331, 896
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+Ftoufa2
+  rotate: true
+  xy: 413, 895
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+Ftoufa3
+  rotate: false
+  xy: 655, 882
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+Ftoufa4
+  rotate: true
+  xy: 96, 906
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+Ftoufa5
+  rotate: false
+  xy: 1092, 870
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+Ftoufa6
+  rotate: true
+  xy: 286, 898
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+Ftoufa7
+  rotate: false
+  xy: 207, 902
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+Ftoufa8
+  rotate: false
+  xy: 911, 872
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+Ftoufa9
+  rotate: true
+  xy: 159, 903
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+Ftoufahou1
+  rotate: true
+  xy: 1116, 742
+  size: 123, 177
+  orig: 123, 177
+  offset: 0, 0
+  index: -1
+Ftoufahou2
+  rotate: true
+  xy: 464, 895
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+Ftoufahou3
+  rotate: true
+  xy: 1734, 858
+  size: 61, 143
+  orig: 61, 143
+  offset: 0, 0
+  index: -1
+Ftoufahou4
+  rotate: true
+  xy: 378, 787
+  size: 93, 280
+  orig: 93, 280
+  offset: 0, 0
+  index: -1
+Ftoufahou5
+  rotate: true
+  xy: 2, 807
+  size: 89, 271
+  orig: 89, 271
+  offset: 0, 0
+  index: -1
+Ftoufahou6
+  rotate: true
+  xy: 836, 759
+  size: 109, 278
+  orig: 109, 278
+  offset: 0, 0
+  index: -1
+Fyoudabi
+  rotate: true
+  xy: 529, 885
+  size: 34, 124
+  orig: 34, 124
+  offset: 0, 0
+  index: -1
+Fyoushouzhi
+  rotate: true
+  xy: 383, 896
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Fyouxiaobi
+  rotate: true
+  xy: 1484, 866
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+Fyouxiaotui
+  rotate: true
+  xy: 1147, 867
+  size: 52, 211
+  orig: 52, 211
+  offset: 0, 0
+  index: -1
+Fyouxiuzi1
+  rotate: true
+  xy: 1879, 845
+  size: 74, 123
+  orig: 74, 123
+  offset: 0, 0
+  index: -1
+Fyouxiuzi2
+  rotate: true
+  xy: 974, 872
+  size: 47, 116
+  orig: 52, 116
+  offset: 0, 0
+  index: -1
+Fyouyanpi
+  rotate: false
+  xy: 80, 907
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Fyouyanxian
+  rotate: false
+  xy: 60, 909
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+Fzhang
+  rotate: true
+  xy: 1295, 694
+  size: 164, 359
+  orig: 165, 363
+  offset: 0, 0
+  index: -1
+Fzuodabi
+  rotate: true
+  xy: 1640, 860
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+Fzuoxiaobi
+  rotate: false
+  xy: 275, 793
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+Fzuoxiaotui
+  rotate: true
+  xy: 696, 882
+  size: 37, 213
+  orig: 37, 213
+  offset: 0, 0
+  index: -1
+Fzuoyanpi
+  rotate: true
+  xy: 19, 911
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Fzuoyanxian
+  rotate: false
+  xy: 30, 911
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+hui1
+  rotate: false
+  xy: 130, 905
+  size: 27, 14
+  orig: 31, 14
+  offset: 1, 0
+  index: -1
+hui2
+  rotate: false
+  xy: 2, 914
+  size: 15, 5
+  orig: 18, 8
+  offset: 2, 1
+  index: -1
+hui3
+  rotate: false
+  xy: 43, 911
+  size: 15, 8
+  orig: 26, 11
+  offset: 8, 1
+  index: -1
+huixiao1
+  rotate: false
+  xy: 1656, 637
+  size: 235, 206
+  orig: 235, 206
+  offset: 0, 0
+  index: -1

@@ -18,10 +18,10 @@
       <gearDisplay controller="button" pages="11"/>
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <text id="n3_edc1" name="title" xy="-2,18" size="64,42" fontSize="30" color="#eef0fa" align="center" vAlign="middle" text="按钮">
+    <text id="n3_edc1" name="title" xy="-2,18" size="64,42" font="ui://xsbz3guorrza1o" fontSize="30" color="#eef0fa" align="center" vAlign="middle" text="按钮">
       <gearColor controller="button" pages="10,11,12,13,14,15" values="#eef0fa,#000000|#eef0fa,#000000|#eef0fa,#000000|#eef0fa,#000000|#9ba6c0,#000000|#9ba6c0,#000000"/>
       <relation target="" sidePair="center-center,middle-middle"/>
     </text>
   </displayList>
-  <Button sound="ui://xsbz3guosu8j1g"/>
+  <Button sound="ui://xsbz3guorrzaa4"/>
 </component>

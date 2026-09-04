@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,200" overflow="scroll" extention="Label">
+  <displayList>
+    <text id="n0_mwfi" name="title" xy="200,0" pivot="0.5,0" anchor="true" size="400,290" font="ui://xsbz3guomwfiaz" fontSize="18" color="#253e52" align="center" autoSize="height" autoClearText="true" text="十里桃园，万般泛，与卿共澜，扁舟与树外林间湖边，共渡舟舟，益漾荡如波，泛泛珠雨点，此景虽不胜桂林山水间，但却于我的心尖相抹添彩。或为人间烟渺，俯卧舟边，一览江山，你不时的欢呼，为我心中添一丝兴喜，相伴携恋，水中相见，心境如浮云般。碧海青天，朵朵纷繁，在自然端处，绽放留下光环。&#xD;&#xA;&#xD;&#xA;　　顺溪泛舟而下，于湖间，清新自然，相饮清泉，肺腑难言，世外般的生活何时重现，隐逸般与君日日笙歌，不枉人生乐华，缕缕青烟升入天，幽咽流泉自是淳漫，不复焉。">
+      <relation target="" sidePair="width-width"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="60,60" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver,11,disabled,12,selectedDisabled" selected="0"/>
+  <displayList>
+    <image id="n0_edc1" name="n0" src="rrza3y" fileName="Images/Img1/image_nfy_common_ui_new_tongyong_erji_quxiao.png" xy="13,13" size="33,33">
+      <gearDisplay controller="button" pages="0,1,2,3"/>
+      <relation target="" sidePair="width-width%,height-height%,center-center,middle-middle"/>
+    </image>
+    <image id="n4_edc1" name="n4" src="rrza3y" fileName="Images/Img1/image_nfy_common_ui_new_tongyong_erji_quxiao.png" xy="13,13" size="33,33" grayed="true">
+      <gearDisplay controller="button" pages="11,12"/>
+      <relation target="" sidePair="width-width%,height-height%,center-center,middle-middle"/>
+    </image>
+  </displayList>
+  <Button sound="ui://xsbz3guorrzaa2" downEffect="scale" downEffectValue=".8"/>
+</component>

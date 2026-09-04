@@ -1,0 +1,34 @@
+
+ui_fengmian_beijing.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lou
+  rotate: false
+  xy: 1604, 116
+  size: 1600, 737
+  orig: 1600, 760
+  offset: 0, 23
+  index: -1
+tian
+  rotate: false
+  xy: 2, 2
+  size: 1600, 851
+  orig: 1600, 851
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 3206, 95
+  size: 453, 233
+  orig: 453, 233
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: true
+  xy: 3206, 330
+  size: 523, 257
+  orig: 523, 257
+  offset: 0, 0
+  index: -1

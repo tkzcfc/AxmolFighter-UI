@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <loader id="n21_mwfi" name="n21" xy="-147,0" size="1575,720" aspect="true" url="ui://yepb0cf9mwfi36" fill="scaleMatchHeight">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </loader>
+    <component id="n22_mwfi" name="container" src="mwfi4t" fileName="CreatePlayer/CharacterCreationPanelContainer.xml" xy="0,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n18_mwfi" name="backButton" src="mwfiav" fileName="Widgets/ButtonBack.xml" pkg="xsbz3guo" xy="0,0">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+  </displayList>
+</component>

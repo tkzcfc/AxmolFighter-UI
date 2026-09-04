@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="686,580">
   <displayList>
-    <image id="n0_edc1" name="n0" src="edc113" fileName="imgs/dialog_bg.png" xy="0,0" size="686,580">
+    <image id="n0_edc1" name="n0" src="edc113" fileName="Images/dialog_bg.png" xy="0,0" size="686,580">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <component id="n1_edc1" name="usernameInput" src="edc1m" fileName="items/InputBox.xml" xy="53,79" size="580,60">
+    <component id="n1_edc1" name="usernameInput" src="edc1m" fileName="Widgets/InputBox.xml" xy="53,79" size="580,60">
       <property target="text_tip" propertyId="0" value="用户名"/>
     </component>
-    <component id="n2_edc1" name="passwordInput" src="edc118" fileName="items/InputBoxPassWord.xml" xy="53,209" size="580,60">
+    <component id="n2_edc1" name="passwordInput" src="edc118" fileName="Widgets/InputBoxPassWord.xml" xy="53,209" size="580,60">
       <property target="text_tip" propertyId="0" value="密码"/>
     </component>
-    <component id="n3_edc1" name="registerButton" src="edc1q" fileName="items/ButtonBlue.xml" xy="243,472" size="390,70">
+    <component id="n3_edc1" name="registerButton" src="edc1q" fileName="Widgets/ButtonBlue.xml" xy="243,472" size="390,70">
       <Button title="立即注册"/>
     </component>
-    <component id="n6_edc1" name="confirmPasswordInput" src="edc118" fileName="items/InputBoxPassWord.xml" xy="53,339" size="580,60">
+    <component id="n6_edc1" name="confirmPasswordInput" src="edc118" fileName="Widgets/InputBoxPassWord.xml" xy="53,339" size="580,60">
       <property target="text_tip" propertyId="0" value="确认密码"/>
     </component>
     <graph id="n4_edc1" name="n4" xy="53,439" size="580,2" type="rect" lineSize="0" fillColor="#ff34343a"/>
-    <component id="n7_edc1" name="backButton" src="edc11d" fileName="items/ButtonBack.xml" xy="53,472" size="160,70">
+    <component id="n7_edc1" name="backButton" src="edc11d" fileName="Widgets/ButtonBack.xml" xy="53,472" size="160,70">
       <Button title="返回"/>
     </component>
   </displayList>

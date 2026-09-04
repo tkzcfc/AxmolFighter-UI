@@ -2,8 +2,6 @@
 <packageDescription id="m7cln76g">
   <resources>
     <component id="edc13" name="LoginView.xml" path="/" exported="true"/>
-    <image id="edc1g" name="bg_1.png" path="/Images/"/>
-    <image id="edc1h" name="bg_2.png" path="/Images/"/>
     <component id="edc1m" name="InputBox.xml" path="/Widgets/"/>
     <component id="edc1q" name="ButtonBlue.xml" path="/Widgets/"/>
     <image id="edc110" name="input_box_default.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
@@ -19,6 +17,21 @@
     <component id="edc11a" name="ButtonNoBg.xml" path="/Widgets/"/>
     <component id="edc11c" name="RegisterPanel.xml" path="/" exported="true"/>
     <component id="edc11d" name="ButtonBack.xml" path="/Widgets/"/>
+    <image id="mwfi5g" name="ui_fengmian_beijing.png" path="/Animation/" exported="true"/>
+    <spine id="mwfi5e" name="ui_fengmian_beijing.skel" path="/Animation/" exported="true" width="2435" height="1492" require="mwfi5f,mwfi5g" atlasNames="ui_fengmian_beijing" anchor="1404,1971"/>
+    <misc id="mwfi5f" name="ui_fengmian_beijing.atlas" path="/Animation/" exported="true"/>
+    <misc id="mwfi5i" name="ui_fengmian_qianjing.atlas" path="/Animation/" exported="true"/>
+    <image id="mwfi5j" name="ui_fengmian_qianjing.png" path="/Animation/" exported="true"/>
+    <spine id="mwfi5h" name="ui_fengmian_qianjing.skel" path="/Animation/" exported="true" width="6028" height="2440" require="mwfi5i,mwfi5j" atlasNames="ui_fengmian_qianjing" anchor="2938,1451"/>
+    <misc id="mwfi5l" name="ui_fengmian_zhongjing1.atlas" path="/Animation/" exported="true"/>
+    <image id="mwfi5m" name="ui_fengmian_zhongjing1.png" path="/Animation/" exported="true"/>
+    <spine id="mwfi5k" name="ui_fengmian_zhongjing1.skel" path="/Animation/" exported="true" width="2330" height="1630" require="mwfi5l,mwfi5m" atlasNames="ui_fengmian_zhongjing1" anchor="1709,1680"/>
+    <image id="mwfi5p" name="ui_fengmian_zhongjing2.png" path="/Animation/" exported="true"/>
+    <misc id="mwfi5o" name="ui_fengmian_zhongjing2.atlas" path="/Animation/" exported="true"/>
+    <spine id="mwfi5n" name="ui_fengmian_zhongjing2.skel" path="/Animation/" exported="true" width="4420" height="1716" require="mwfi5o,mwfi5p" atlasNames="ui_fengmian_zhongjing2" anchor="2006,1770"/>
+    <misc id="mwfi1g" name="ui_tx_fengmiantexiao.atlas" path="/Animation/" exported="true"/>
+    <image id="mwfi1h" name="ui_tx_fengmiantexiao.png" path="/Animation/" exported="true"/>
+    <spine id="mwfi1f" name="ui_tx_fengmiantexiao.skel" path="/Animation/" exported="true" width="701" height="117" require="mwfi1g,mwfi1h" atlasNames="ui_tx_fengmiantexiao" anchor="378,-350"/>
   </resources>
   <publish name=""/>
 </packageDescription>

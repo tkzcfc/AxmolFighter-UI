@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- CharacterLobby/ChoosePlayer/CharacterLobbyView.xml -->
+  <string name="yepb0cf9mwfi5a-n6_mwfi" mz="n6">选择角色</string>
+  <string name="yepb0cf9mwfi5a-n7_mwfi" mz="n7">CHOICE OF ROLES</string>
+  <!-- CharacterLobby/CreatePlayer/CharacterCreationPanelContainer.xml -->
+  <string name="yepb0cf9mwfi4t-n27_mwfi" mz="n27">操作难度:</string>
+  <!-- CharacterLobby/CreatePlayer/CreateButton.xml -->
+  <string name="yepb0cf9mwfi4s-n4_mwfi" mz="title">创建角色</string>
+  <!-- CharacterLobby/CreatePlayer/ProfessionButton.xml -->
+  <string name="yepb0cf9mwfi4u-n5_mwfi" mz="title">苍炎骑士</string>
+  <!-- Common/Component1.xml -->
+  <string name="xsbz3guoedc17-n0_edc1" mz="n0">AVDSDSDzczxczx</string>
+  <string name="xsbz3guoedc17-n1_edc1" mz="n1">AVDSDSDzczxczx
+DNF</string>
+  <!-- Common/Widgets/ButtonGeneral/ButtonGeneral.xml -->
+  <string name="xsbz3guoedc1y-n5_edc1" mz="title">按钮</string>
+  <!-- Common/Widgets/ButtonNo.xml -->
+  <string name="xsbz3guorrzaak-n1_rrza" mz="title">取消</string>
+  <!-- Common/Widgets/ButtonTemp1.xml -->
+  <string name="xsbz3guomwfib0-n1_rrza" mz="title">确定</string>
+  <!-- Common/Widgets/ButtonYes.xml -->
+  <string name="xsbz3guorrzaah-n1_rrza" mz="title">确定</string>
+  <!-- Common/Widgets/MessagePopup.xml -->
+  <string name="xsbz3guoedc11b-n3_edc1" mz="title">提示</string>
+  <string name="xsbz3guoedc11b-n5_edc1" mz="confirmButtonCenter">OK</string>
+  <string name="xsbz3guoedc11b-n6_edc1" mz="textContent">如果是强制引导，可以叫 ForceDialog 或 GuideDialog（通常都是全屏且阻断）。
+
+如果是胜利/失败结算，可以叫 ResultDialog 或 SettlementDialog（通常会全屏展示数据）。
+
+📝 我的建议
+根据你的项目结构（View 和 Dialog 是平级的），我建议：
+
+如果这个界面本质上是个“弹窗”（需要关闭、有层级动画），叫 FullScreenDialog。
+
+如果这个界面本质上是个“场景”（内容独立、不需要向 View 透传信息），只是打开方式像弹窗，叫 FullScreenView 或 FullScreenPanel。
+
+绝大多数情况下，FullScreenDialog 是最稳妥、最通用的选择</string>
+  <string name="xsbz3guoedc11b-n7_edc1" mz="confirmButton">取消</string>
+  <string name="xsbz3guoedc11b-n8_edc1" mz="cancelButton">确认</string>
+  <!-- Common/Widgets/Win1/WinFrame1.xml -->
+  <string name="xsbz3guorrzaaj-n1_rrza" mz="title">我是标题文本</string>
+  <!-- Common/Widgets/Win1/WindowTitleBar.xml -->
+  <string name="xsbz3guorrzaai-n2_rrza" mz="title">窗口标题文本</string>
+  <!-- Login/LoginPanel.xml -->
+  <string name="m7cln76gedc119-n1_edc1-cp-text_tip" mz="usernameInput">用户名</string>
+  <string name="m7cln76gedc119-n2_edc1-cp-text_tip" mz="passwordInput">密码</string>
+  <string name="m7cln76gedc119-n3_edc1" mz="loginButton">进入游戏</string>
+  <!-- Login/RegisterPanel.xml -->
+  <string name="m7cln76gedc11c-n1_edc1-cp-text_tip" mz="usernameInput">用户名</string>
+  <string name="m7cln76gedc11c-n2_edc1-cp-text_tip" mz="passwordInput">密码</string>
+  <string name="m7cln76gedc11c-n3_edc1" mz="registerButton">立即注册</string>
+  <string name="m7cln76gedc11c-n6_edc1-cp-text_tip" mz="confirmPasswordInput">确认密码</string>
+  <string name="m7cln76gedc11c-n7_edc1" mz="backButton">返回</string>
+  <!-- Login/Widgets/ButtonBack.xml -->
+  <string name="m7cln76gedc11d-n2_edc1" mz="title">返回</string>
+  <!-- Login/Widgets/ButtonBlue.xml -->
+  <string name="m7cln76gedc1q-n3_edc1" mz="title">按钮</string>
+  <!-- Login/Widgets/ButtonNoBg.xml -->
+  <string name="m7cln76gedc11a-n3_edc1" mz="title">注册</string>
+  <!-- Login/Widgets/InputBox.xml -->
+  <string name="m7cln76gedc1m-n3_edc1" mz="text_tip">提示</string>
+  <!-- Login/Widgets/InputBoxPassWord.xml -->
+  <string name="m7cln76gedc118-n3_edc1" mz="text_tip">提示</string>
+</resources>

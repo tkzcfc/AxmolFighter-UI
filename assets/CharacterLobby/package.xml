@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="yepb0cf9">
   <resources>
+    <folder id="/Images/Alone/" name="Alone" path="/Images/" atlas="alone_npot"/>
     <image id="su8j1d" name="img_hero_name_1.png" path="/Images/"/>
     <image id="su8j8" name="img_attri_1.png" path="/Images/"/>
     <image id="su8j9" name="img_hero_1.png" path="/Images/Alone/"/>
@@ -14,9 +15,8 @@
     <image id="su8jh" name="img_btn_create_chr_2.png" path="/Images/"/>
     <image id="su8ji" name="img_btn_create_chr_3.png" path="/Images/"/>
     <image id="su8jj" name="img_title_input_name.png" path="/Images/"/>
-    <component id="su8jk" name="CharacterCreationPanel.xml" path="/" exported="true"/>
+    <component id="su8jk" name="CharacterCreationPanel.xml" path="/CreatePlayer/" exported="true"/>
     <image id="su8jl" name="img_info_1.png" path="/Images/"/>
-    <component id="su8jn" name="CharactorSelect_SW.xml" path="/"/>
     <image id="su8jo" name="nq_icon_btn_1.png" path="/Images/"/>
     <image id="su8jp" name="nq_icon_btn_2.png" path="/Images/"/>
     <image id="su8jq" name="nq_icon_btn_3.png" path="/Images/"/>
@@ -27,15 +27,12 @@
     <image id="su8jv" name="mj_icon_btn_4.png" path="/Images/"/>
     <image id="su8jw" name="img_hero_3.png" path="/Images/Alone/"/>
     <image id="su8jx" name="img_hero_2.png" path="/Images/Alone/"/>
-    <component id="su8jy" name="CharactorSelect_MJ.xml" path="/"/>
-    <component id="su8jz" name="CharactorSelect_NQ.xml" path="/"/>
     <image id="su8j10" name="img_hero_name_2.png" path="/Images/"/>
     <image id="su8j11" name="img_hero_name_3.png" path="/Images/"/>
     <image id="su8j12" name="img_attri_2.png" path="/Images/"/>
     <image id="su8j13" name="img_attri_3.png" path="/Images/"/>
     <image id="su8j14" name="img_info_3.png" path="/Images/"/>
     <image id="su8j15" name="img_info_2.png" path="/Images/"/>
-    <component id="su8j16" name="CreateChrButton.xml" path="/"/>
     <image id="su8j17" name="btn_start_game_3.png" path="/Images/"/>
     <image id="su8j18" name="btn_start_game_4.png" path="/Images/"/>
     <image id="su8j19" name="btn_start_game_1.png" path="/Images/"/>
@@ -43,16 +40,135 @@
     <image id="su8j1b" name="15.png" path="/Images/"/>
     <image id="su8j1c" name="img_title_select_chr.png" path="/Images/"/>
     <image id="su8j1e" name="img_bg_chr_select.png" path="/Images/Alone/"/>
-    <component id="su8j1l" name="CharacterLobbyView.xml" path="/" exported="true"/>
-    <component id="su8j1n" name="StartGameButton.xml" path="/"/>
-    <component id="qn651o" name="CharacterItem.xml" path="/" exported="true"/>
+    <component id="su8j1n" name="StartGameButton.xml" path="/ChoosePlayer/"/>
+    <component id="qn651o" name="CharacterItem.xml" path="/ChoosePlayer/" exported="true"/>
     <image id="qn651e" name="img_chr_item_bottom_g_2.png" path="/Images/"/>
     <image id="h8e31p" name="img_chr_item_bottom_g_1.png" path="/Images/"/>
     <image id="h8e31q" name="img_chr_item_fg_3.png" path="/Images/"/>
     <image id="h8e31s" name="img_chr_item_fg_1.png" path="/Images/" scale="9grid" scale9grid="29,51,58,102"/>
     <image id="h8e31t" name="img_fg_blue.png" path="/Images/" scale="9grid" scale9grid="73,9,146,18"/>
     <image id="h8e31v" name="img_chr_item_fg_2.png" path="/Images/" scale="9grid" scale9grid="29,51,58,102"/>
-    <folder id="/Images/Alone/" name="Alone" path="/Images/" atlas="alone_npot"/>
+    <folder id="/Img_CeatePlayer_Alone/" name="Img_CeatePlayer_Alone" path="/" atlas="alone_npot"/>
+    <image id="mwfi1w" name="ui_juesechuangjian_huanzhuang_jueseming_shenyue.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi1x" name="ui_juesechuangjian_huanzhuang_jueseming_sling.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi1y" name="ui_juesechuangjian_huanzhuang_jueseming_xingyezou.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi1z" name="ui_juesechuangjian_juexingfangxiang_jindutiao_shuxing.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi20" name="ui_juesechuangjian_juexingfangxiang_jindutiao_shuxing_02.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi21" name="ui_juesechuangjian_juexingfangxiang_jindutiao_shuxing_03.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi22" name="ui_juesechuangjian_shizhuang_01_1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi23" name="ui_juesechuangjian_shizhuang_01_2.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi24" name="ui_juesechuangjian_shizhuang_01_3.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi25" name="ui_juesechuangjian_shizhuang_01_4.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi26" name="ui_juesechuangjian_shizhuang_01_5.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi27" name="ui_juesechuangjian_shizhuang_02_1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi28" name="ui_juesechuangjian_shizhuang_02_2.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi29" name="ui_juesechuangjian_shizhuang_02_3.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2a" name="ui_juesechuangjian_shizhuang_02_5.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2b" name="ui_juesechuangjian_shizhuang_02_6.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2c" name="ui_juesechuangjian_shizhuang_03_1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2d" name="ui_juesechuangjian_shizhuang_03_2.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2e" name="ui_juesechuangjian_shizhuang_03_3.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2f" name="ui_juesechuangjian_shizhuang_03_4.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2g" name="ui_juesechuangjian_shizhuang_03_5.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2h" name="ui_juesechuangjian_shizhuang_04_1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2i" name="ui_juesechuangjian_shizhuang_04_2.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2j" name="ui_juesechuangjian_shizhuang_04_3.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2k" name="ui_juesechuangjian_shizhuang_04_4.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2l" name="ui_juesechuangjian_shizhuang_04_5.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2m" name="ui_juesechuangjian_tou_01_1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2n" name="ui_juesechuangjian_tou_01_2.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2o" name="ui_juesechuangjian_tou_01_3.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2p" name="ui_juesechuangjian_tou_01_4.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2q" name="ui_juesechuangjian_tou_01_5.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2r" name="ui_juesechuangjian_tou_02_1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2s" name="ui_juesechuangjian_tou_02_2.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2t" name="ui_juesechuangjian_tou_02_3.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2u" name="ui_juesechuangjian_tou_02_5.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2v" name="ui_juesechuangjian_tou_02_6.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2w" name="ui_juesechuangjian_tou_03_1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2x" name="ui_juesechuangjian_tou_03_2.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2y" name="ui_juesechuangjian_tou_03_3.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi2z" name="ui_juesechuangjian_tou_03_4.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi30" name="ui_juesechuangjian_tou_03_5.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi31" name="ui_juesechuangjian_tou_04_1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi32" name="ui_juesechuangjian_tou_04_2.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi33" name="ui_juesechuangjian_tou_04_3.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi34" name="ui_juesechuangjian_tou_04_4.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi35" name="ui_juesechuangjian_tou_04_5.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi36" name="ui_juesechuangjian_zhujiemian_beijing.jpg" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi37" name="ui_juesechuangjian_zhujiemian_juese_nan1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi38" name="ui_juesechuangjian_zhujiemian_juese_nv1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi39" name="ui_juesechuangjian_zhujiemian_juese_nv2.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi3a" name="ui_juesechuangjian_zhujiemian_mingzi_cangyanqishi.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi3b" name="ui_juesechuangjian_zhujiemian_mingzi_ciyuanlingzhu.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi3c" name="ui_juesechuangjian_zhujiemian_mingzi_leiguangshenshi.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi3d" name="ui_juesechuangjian_zhujiemian_mingzi_lilimu.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi3e" name="ui_juesechuangjian_zhujiemian_mingzi_ling.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi3f" name="ui_juesechuangjian_zhujiemian_mingzi_shenbingzhiyan.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi3g" name="ui_juesechuangjian_zhujiemian_mingzi_shenyue.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi3h" name="ui_juesechuangjian_zhujiemian_mingzi_xukongmonv.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi3i" name="ui_juesechuangjian_zhujiemian_mingzi_zhuyingzhixin.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <image id="mwfi3j" name="ui_juesechuangjian_zhujiemian_video_1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi3k" name="ui_juesechuangjian_zhujiemian_video_2.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi3l" name="ui_juesechuangjian_zhujiemian_video_nv2.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi3m" name="ui_juesechuangjian_zhujiemian_video1.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi3n" name="ui_juesechuangjian_huanzhuang_jueseming_lilimu.png" path="/Img_CeatePlayer_Alone/"/>
+    <image id="mwfi3o" name="image_nfy_createplayer_ui_juesechuangjian_zhujiemian_jieshao_bg.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi3p" name="image_nfy_createplayer_ui_juesechuangjian_zhujiemian_jieshao_bg_zhuangshi.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi3q" name="image_nfy_createplayer_ui_juesechuangjian_zhujiemian_juese_bg.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi3r" name="image_nfy_createplayer_ui_juesechuangjian_zhujiemian_juese_kuang.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi3s" name="image_nfy_createplayer_ui_juesechuangjian_zhujiemian_juese_kuang_fengtiao.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi3t" name="image_nfy_createplayer_ui_juesechuangjian_zhujiemian_juese_kuang_liang.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi3u" name="image_nfy_createplayer_ui_juesechuangjian_zhujiemian_juese_wenhao.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi3v" name="image_nfy_createplayer_ui_juesechuangjian_zhujiemian_video.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi3w" name="image_nfy_createplayer_ui_juesechuangjian_zhujiemian_video1.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi3x" name="image_nfy_createplayer_ui_juesechuangjian_zi1.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi3y" name="image_nfy_createplayer_anniu.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi3z" name="image_nfy_createplayer_ui_juesechuangjian_2.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi40" name="image_nfy_createplayer_ui_juesechuangjian_3.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi41" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_beijing.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi42" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_beijing_yingwenzhuangshi.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi43" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_juesebeijing.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi44" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_kuan_clothing.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi45" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_kuan_hair.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi46" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_kuang.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi47" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_kuang_xuanzhong.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi48" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_kuang_xuanzhong_clothing.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi49" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_kuang_xuanzhong_hair.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4a" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_kuang_xuliehao.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4b" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_shurumingzi_bg.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4c" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_wenzi_xuanzefaxing.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4d" name="image_nfy_createplayer_ui_juesechuangjian_huanzhuang_wenzi_xuanzefuzhuang.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4e" name="image_nfy_createplayer_ui_juesechuangjian_juexingfangxiang_wenzi_di.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4f" name="image_nfy_createplayer_ui_juesechuangjian_juexingfangxiang_xuanzhong.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4g" name="image_nfy_createplayer_ui_juesechuangjian_juexingfangxiang_zi_03.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4h" name="image_nfy_createplayer_ui_juesechuangjian_qipao_tuijian.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4i" name="image_nfy_createplayer_ui_juesechuangjian_zhiyeanniu_.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4j" name="image_nfy_createplayer_ui_juesechuangjian_zhiyeanniu_g.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4k" name="image_nfy_createplayer_ui_juesechuangjian_zhiyeanniu_x.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4l" name="image_nfy_createplayer_ui_juesechuangjian_zhujiemian_bofang.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4m" name="image_nfy_createplayer_ui_juesechuangjian_zhujiemian_bofang_liang.png" path="/Img_CeatePlayer/"/>
+    <component id="mwfi4n" name="RoleTypeSelector.xml" path="/CreatePlayer/"/>
+    <component id="mwfi4o" name="RoleTypeSelectorBtn.xml" path="/CreatePlayer/"/>
+    <component id="mwfi4p" name="RoleTypeSelectorBtnUnlock.xml" path="/CreatePlayer/"/>
+    <image id="mwfi4q" name="image_fy_login_ui_denglu_zhujiemian_bn_01.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi4r" name="image_fy_login_ui_denglu_zhujiemian_bn_01_g.png" path="/Img_CeatePlayer/"/>
+    <component id="mwfi4s" name="CreateButton.xml" path="/CreatePlayer/"/>
+    <component id="mwfi4t" name="CharacterCreationPanelContainer.xml" path="/CreatePlayer/"/>
+    <component id="mwfi4u" name="ProfessionButton.xml" path="/CreatePlayer/"/>
+    <component id="mwfi4v" name="VedioPlayer.xml" path="/CreatePlayer/"/>
+    <image id="mwfi53" name="fy_front_title.png" path="/Font/"/>
+    <font id="mwfi52" name="fy_front_title.fnt" path="/Font/" texture="mwfi53"/>
+    <misc id="mwfi55" name="ditu_xuanren.atlas" path="/Animation/"/>
+    <image id="mwfi56" name="ditu_xuanren.png" path="/Animation/"/>
+    <spine id="mwfi54" name="ditu_xuanren.skel" path="/Animation/" width="4424" height="1480" require="mwfi55,mwfi56" atlasNames="ditu_xuanren" anchor="2123,1306"/>
+    <image id="mwfi57" name="image_fy_login_ui_zi_juesexuanze_yixuanze.png" path="/Img_CeatePlayer/"/>
+    <image id="mwfi58" name="image_fy_login_yinying.png" path="/Img_CeatePlayer/"/>
+    <component id="mwfi59" name="CharacterLobbyViewBG.xml" path="/ChoosePlayer/"/>
+    <component id="mwfi5a" name="CharacterLobbyView.xml" path="/ChoosePlayer/" exported="true"/>
+    <misc id="mwfi5c" name="tx_ui_xuanzejuese.atlas" path="/Animation/"/>
+    <image id="mwfi5d" name="tx_ui_xuanzejuese.png" path="/Animation/"/>
+    <spine id="mwfi5b" name="tx_ui_xuanzejuese.skel" path="/Animation/" width="100" height="100" require="mwfi5c,mwfi5d" atlasNames="tx_ui_xuanzejuese" anchor="100,100"/>
   </resources>
   <publish name=""/>
 </packageDescription>

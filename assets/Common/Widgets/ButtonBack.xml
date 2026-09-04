@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,65" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n5_mwfi" name="n5" src="rrza55" fileName="Images/Img1/image_nfy_common_ui_new_tongyong_ziyuantiao_back.png" xy="12,14"/>
+  </displayList>
+  <Button sound="ui://xsbz3guorrzaa2" downEffect="scale" downEffectValue=".95"/>
+</component>

@@ -1,7 +1,7 @@
 {
-  "font": "",
-  "fontSize": 12,
-  "textColor": "#000000",
+  "font": "ui://xsbz3guorrza1o",
+  "fontSize": 22,
+  "textColor": "#ffffff",
   "fontAdjustment": false,
   "colorScheme": [
     "自定义颜色 #FF0000"
@@ -18,7 +18,7 @@
     "defaultDisplay": "visible"
   },
   "tipsRes": "",
-  "buttonClickSound": "ui://xsbz3guosu8j1g",
+  "buttonClickSound": "ui://xsbz3guorrzaa4",
   "pivot": "default",
   "fileName": "Common"
 }

@@ -4,10 +4,6 @@
     <image id="edc14" name="ui_toast_bg.png" path="/Images/" exported="true"/>
     <component id="edc17" name="Component1.xml" path="/"/>
     <font id="edc18" name="Faint-DNF-Song-12px-Medium.ttf" path="/Fonts/" exported="true" renderMode="" samplePointSize="16"/>
-    <image id="edc1g" name="btn_close_normal.png" path="/Widgets/ButtonClose/"/>
-    <image id="edc1h" name="btn_close_hover.png" path="/Widgets/ButtonClose/"/>
-    <image id="edc1i" name="btn_close_pressed.png" path="/Widgets/ButtonClose/"/>
-    <image id="edc1j" name="btn_close_disabled.png" path="/Widgets/ButtonClose/"/>
     <image id="edc1m" name="img_black.png" path="/Images/" exported="true" scale="9grid" scale9grid="57,14,114,28"/>
     <image id="edc1n" name="img_frame_bar_bg.png" path="/Images/" exported="true" scale="9grid" scale9grid="43,6,86,12"/>
     <image id="edc1o" name="img_frame_bg.png" path="/Images/" exported="true" scale="9grid" scale9grid="11,8,22,16"/>
@@ -16,24 +12,342 @@
     <image id="edc1w" name="img_btn_general_normal.png" path="/Widgets/ButtonGeneral/" scale="9grid" scale9grid="14,6,28,12"/>
     <image id="edc1x" name="img_btn_general_hover.png" path="/Widgets/ButtonGeneral/" scale="9grid" scale9grid="14,6,28,12"/>
     <component id="edc1y" name="ButtonGeneral.xml" path="/Widgets/ButtonGeneral/" exported="true"/>
-    <image id="edc113" name="img_checkbox_normal.png" path="/Widgets/CheckBoxGeneral/"/>
-    <image id="edc114" name="img_checkbox_selected.png" path="/Widgets/CheckBoxGeneral/"/>
-    <image id="edc115" name="img_radio_button_normal.png" path="/Widgets/RadioButtonGeneral/"/>
-    <image id="edc116" name="img_radio_button_selected.png" path="/Widgets/RadioButtonGeneral/"/>
-    <image id="edc117" name="img_radio_button_disabled.png" path="/Widgets/RadioButtonGeneral/"/>
-    <component id="edc118" name="CheckBoxGeneral.xml" path="/Widgets/CheckBoxGeneral/"/>
-    <component id="edc11a" name="RadioButtonGeneral.xml" path="/Widgets/RadioButtonGeneral/"/>
-    <component id="edc11b" name="MessagePopup.xml" path="/Widgets/" exported="true"/>
-    <component id="edc11c" name="ButtonClose.xml" path="/Widgets/ButtonClose/"/>
-    <sound id="su8j1e" name="click_in.ogg" path="/Audio/" exported="true"/>
-    <sound id="su8j1f" name="click_out.ogg" path="/Audio/" exported="true"/>
-    <sound id="su8j1g" name="click_1.ogg" path="/Audio/" exported="true"/>
-    <sound id="su8j1h" name="click_2.ogg" path="/Audio/" exported="true"/>
+    <component id="edc11b" name="MessageDialog.xml" path="/Widgets/" exported="true"/>
+    <component id="edc11c" name="ButtonClose.xml" path="/Widgets/" exported="true"/>
+    <sound id="su8j1g" name="click_1.ogg" path="/Audio/"/>
     <image id="su8j1k" name="img_input_bg.png" path="/Images/" exported="true" scale="9grid" scale9grid="26,3,52,1"/>
     <component id="su8j1i" name="InputBoxGeneral.xml" path="/Widgets/" exported="true"/>
     <image id="su8j1j" name="img_frame_bg_2.png" path="/Images/" exported="true" scale="9grid" scale9grid="15,15,30,30"/>
     <image id="su8j1l" name="img_frame_bg_3.png" path="/Images/" exported="true" scale="9grid" scale9grid="15,15,30,30"/>
     <component id="h8e31m" name="ConnectMaskLayer.xml" path="/" exported="true"/>
+    <font id="rrza1n" name="font-title.ttf" path="/Fonts/" exported="true" renderMode="" samplePointSize="16"/>
+    <font id="rrza1o" name="font-normal.ttf" path="/Fonts/" exported="true" renderMode="" samplePointSize="16"/>
+    <image id="rrza1q" name="image_nfy_common_icon_jichushuxing_mingzhong.png" path="/Images/Img1/"/>
+    <image id="rrza1r" name="image_nfy_common_icon_jichushuxing_mingzhong2.png" path="/Images/Img1/"/>
+    <image id="rrza1s" name="image_nfy_common_icon_jichushuxing_renxing.png" path="/Images/Img1/"/>
+    <image id="rrza1t" name="image_nfy_common_icon_jichushuxing_renxing2.png" path="/Images/Img1/"/>
+    <image id="rrza1u" name="image_nfy_common_icon_jichushuxing_shanbi.png" path="/Images/Img1/"/>
+    <image id="rrza1v" name="image_nfy_common_icon_jichushuxing_shanbi2.png" path="/Images/Img1/"/>
+    <image id="rrza1w" name="image_nfy_common_ui_an_huoqutujing.png" path="/Images/Img1/"/>
+    <image id="rrza1x" name="image_nfy_common_ui_an_huoqutujing_g.png" path="/Images/Img1/"/>
+    <image id="rrza1y" name="image_nfy_common_ui_an_jia2.png" path="/Images/Img1/"/>
+    <image id="rrza1z" name="image_nfy_common_ui_an_xiaoanniu.png" path="/Images/Img1/"/>
+    <image id="rrza20" name="image_nfy_common_ui_an_xiaoanniu_g.png" path="/Images/Img1/"/>
+    <image id="rrza21" name="image_nfy_common_ui_an_xiaoanniu_hong.png" path="/Images/Img1/"/>
+    <image id="rrza22" name="image_nfy_common_ui_an_xiaoanniu_huang.png" path="/Images/Img1/"/>
+    <image id="rrza23" name="image_nfy_common_ui_an_xiaoanniu_huang_g.png" path="/Images/Img1/"/>
+    <image id="rrza24" name="image_nfy_common_ui_beibao_bn_fanhui.png" path="/Images/Img1/"/>
+    <image id="rrza25" name="image_nfy_common_ui_beibao_bn_lv.png" path="/Images/Img1/"/>
+    <image id="rrza26" name="image_nfy_common_ui_beibao_bn_lv_02.png" path="/Images/Img1/"/>
+    <image id="rrza27" name="image_nfy_common_ui_beibao_hongdian.png" path="/Images/Img1/"/>
+    <image id="rrza28" name="image_nfy_common_ui_beibao_zi_new.png" path="/Images/Img1/"/>
+    <image id="rrza29" name="image_nfy_common_ui_bn_jiangkangshuimian.png" path="/Images/Img1/"/>
+    <image id="rrza2a" name="image_nfy_common_ui_bn_jiangkangshuimian_liang.png" path="/Images/Img1/"/>
+    <image id="rrza2b" name="image_nfy_common_ui_chaoxue_zhujiemian_bn_jiahao.png" path="/Images/Img1/"/>
+    <image id="rrza2c" name="image_nfy_common_ui_chaoxue_zhujiemian_bn_jiahao_01.png" path="/Images/Img1/"/>
+    <image id="rrza2d" name="image_nfy_common_ui_chaoxue_zhujiemian_bn_jianhao.png" path="/Images/Img1/"/>
+    <image id="rrza2e" name="image_nfy_common_ui_chaoxue_zhujiemian_bn_jianhao_01.png" path="/Images/Img1/"/>
+    <image id="rrza2f" name="image_nfy_common_ui_chongwu_jineng_hei.png" path="/Images/Img1/"/>
+    <image id="rrza2g" name="image_nfy_common_ui_chongwu_paixu.png" path="/Images/Img1/"/>
+    <image id="rrza2h" name="image_nfy_common_ui_chongwu_xuanzhong_hongguang.png" path="/Images/Img1/"/>
+    <image id="rrza2i" name="image_nfy_common_ui_fangtankuang_bg.png" path="/Images/Img1/"/>
+    <image id="rrza2j" name="image_nfy_common_ui_fangtankuang_bg_beijingdi.png" path="/Images/Img1/"/>
+    <image id="rrza2k" name="image_nfy_common_ui_fangtankuang_bg_zhuangshi.png" path="/Images/Img1/" exported="true"/>
+    <image id="rrza2l" name="image_nfy_common_ui_fangtankuang_bg_zhuangshi_shutiao.png" path="/Images/Img1/"/>
+    <image id="rrza2m" name="image_nfy_common_ui_fangtankuang_longyu_common.png" path="/Images/Img1/"/>
+    <image id="rrza2n" name="image_nfy_common_ui_fangtankuang_longyu_common_shengyuxuqiu.png" path="/Images/Img1/"/>
+    <image id="rrza2o" name="image_nfy_common_ui_fuben_dianjisaodang.png" path="/Images/Img1/"/>
+    <image id="rrza2p" name="image_nfy_common_ui_fuben_dianjisaodang_g.png" path="/Images/Img1/"/>
+    <image id="rrza2q" name="image_nfy_common_ui_fuyong_daojishidikuang.png" path="/Images/Img1/"/>
+    <image id="rrza2r" name="image_nfy_common_ui_fuyong_dikuang_xiao.png" path="/Images/Img1/"/>
+    <image id="rrza2s" name="image_nfy_common_ui_fuyong_fenjie_fangdajin_liang.png" path="/Images/Img1/"/>
+    <image id="rrza2t" name="image_nfy_common_ui_fuyong_fenjie_fangdajing.png" path="/Images/Img1/"/>
+    <image id="rrza2u" name="image_nfy_common_ui_fuyong_fenjiekuang.png" path="/Images/Img1/"/>
+    <image id="rrza2v" name="image_nfy_common_ui_fuyong_pinzhi_n.png" path="/Images/Img1/"/>
+    <image id="rrza2w" name="image_nfy_common_ui_fuyong_pinzhi_r.png" path="/Images/Img1/"/>
+    <image id="rrza2x" name="image_nfy_common_ui_fuyong_pinzhi_r_j.png" path="/Images/Img1/"/>
+    <image id="rrza2y" name="image_nfy_common_ui_fuyong_pinzhi_sr.png" path="/Images/Img1/"/>
+    <image id="rrza2z" name="image_nfy_common_ui_fuyong_pinzhi_sr_j.png" path="/Images/Img1/"/>
+    <image id="rrza30" name="image_nfy_common_ui_fuyong_pinzhi_ssr.png" path="/Images/Img1/"/>
+    <image id="rrza31" name="image_nfy_common_ui_gonggao_guanbi.png" path="/Images/Img1/"/>
+    <image id="rrza32" name="image_nfy_common_ui_gongpingshuzhi.png" path="/Images/Img1/"/>
+    <image id="rrza33" name="image_nfy_common_ui_heiseceng.png" path="/Images/Img1/"/>
+    <image id="rrza34" name="image_nfy_common_ui_jianfu_fanpaijiangli.png" path="/Images/Img1/"/>
+    <image id="rrza35" name="image_nfy_common_ui_jiaoyi_bn_jiantou.png" path="/Images/Img1/"/>
+    <image id="rrza36" name="image_nfy_common_ui_jiaoyi_bn_jiantou_liang.png" path="/Images/Img1/"/>
+    <image id="rrza37" name="image_nfy_common_ui_jiexiantxz_yilingqu.png" path="/Images/Img1/"/>
+    <image id="rrza38" name="image_nfy_common_ui_jineng_cuozhaokaiguan_off_anniu.png" path="/Images/Img1/"/>
+    <image id="rrza39" name="image_nfy_common_ui_jineng_cuozhaokaiguan_off_di.png" path="/Images/Img1/"/>
+    <image id="rrza3a" name="image_nfy_common_ui_jineng_cuozhaokaiguan_off_off.png" path="/Images/Img1/"/>
+    <image id="rrza3b" name="image_nfy_common_ui_jineng_cuozhaokaiguan_on_on.png" path="/Images/Img1/"/>
+    <image id="rrza3c" name="image_nfy_common_ui_juese_longyu_tanhao.png" path="/Images/Img1/"/>
+    <image id="rrza3d" name="image_nfy_common_ui_juese_shuoming.png" path="/Images/Img1/"/>
+    <image id="rrza3e" name="image_nfy_common_ui_juese_shuoming_hui.png" path="/Images/Img1/"/>
+    <image id="rrza3f" name="image_nfy_common_ui_juesechuangjian_zhiyeanniu_g.png" path="/Images/Img1/"/>
+    <image id="rrza3g" name="image_nfy_common_ui_juesechuangjian_zhiyeanniu_x.png" path="/Images/Img1/"/>
+    <image id="rrza3h" name="image_nfy_common_ui_kuangqu_jianglidikuangda.png" path="/Images/Img1/"/>
+    <image id="rrza3i" name="image_nfy_common_ui_new_tongyon_diban_3.png" path="/Images/Img1/"/>
+    <image id="rrza3j" name="image_nfy_common_ui_new_tongyong_anniou.png" path="/Images/Img1/"/>
+    <image id="rrza3k" name="image_nfy_common_ui_new_tongyong_daanniou.png" path="/Images/Img1/"/>
+    <image id="rrza3l" name="image_nfy_common_ui_new_tongyong_diban_1.png" path="/Images/Img1/"/>
+    <image id="rrza3m" name="image_nfy_common_ui_new_tongyong_diban_2.png" path="/Images/Img1/"/>
+    <image id="rrza3n" name="image_nfy_common_ui_new_tongyong_diban2.png" path="/Images/Img1/"/>
+    <image id="rrza3o" name="image_nfy_common_ui_new_tongyong_dibantiao.png" path="/Images/Img1/"/>
+    <image id="rrza3p" name="image_nfy_common_ui_new_tongyong_dibantiao2.png" path="/Images/Img1/"/>
+    <image id="rrza3q" name="image_nfy_common_ui_new_tongyong_dibantiao3.png" path="/Images/Img1/"/>
+    <image id="rrza3r" name="image_nfy_common_ui_new_tongyong_dibanzhuangshitiao.png" path="/Images/Img1/"/>
+    <image id="rrza3s" name="image_nfy_common_ui_new_tongyong_dibanzhuangshitiao2.png" path="/Images/Img1/"/>
+    <image id="rrza3t" name="image_nfy_common_ui_new_tongyong_dibuyeqian.png" path="/Images/Img1/"/>
+    <image id="rrza3u" name="image_nfy_common_ui_new_tongyong_erji_.png" path="/Images/Img1/"/>
+    <image id="rrza3v" name="image_nfy_common_ui_new_tongyong_erji_anniou1.png" path="/Images/Img1/"/>
+    <image id="rrza3w" name="image_nfy_common_ui_new_tongyong_erji_anniou2.png" path="/Images/Img1/"/>
+    <image id="rrza3x" name="image_nfy_common_ui_new_tongyong_erji_diban.png" path="/Images/Img1/" scale="9grid" scale9grid="102,75,128,70"/>
+    <image id="rrza3y" name="image_nfy_common_ui_new_tongyong_erji_quxiao.png" path="/Images/Img1/"/>
+    <image id="rrza3z" name="image_nfy_common_ui_new_tongyong_erji_tingtiao.png" path="/Images/Img1/"/>
+    <image id="rrza40" name="image_nfy_common_ui_new_tongyong_erji_tingtiao2.png" path="/Images/Img1/"/>
+    <image id="rrza41" name="image_nfy_common_ui_new_tongyong_erji_xuxian.png" path="/Images/Img1/"/>
+    <image id="rrza42" name="image_nfy_common_ui_new_tongyong_erji_zhuangshi.png" path="/Images/Img1/"/>
+    <image id="rrza43" name="image_nfy_common_ui_new_tongyong_erji2_anniou.png" path="/Images/Img1/"/>
+    <image id="rrza44" name="image_nfy_common_ui_new_tongyong_erji2_diban1.png" path="/Images/Img1/"/>
+    <image id="rrza45" name="image_nfy_common_ui_new_tongyong_erji2_xuanzhonganniou.png" path="/Images/Img1/"/>
+    <image id="rrza46" name="image_nfy_common_ui_new_tongyong_erji2_zhuangshidian.png" path="/Images/Img1/"/>
+    <image id="rrza47" name="image_nfy_common_ui_new_tongyong_erji2_zhuangshixian.png" path="/Images/Img1/"/>
+    <image id="rrza48" name="image_nfy_common_ui_new_tongyong_huangguan.png" path="/Images/Img1/"/>
+    <image id="rrza49" name="image_nfy_common_ui_new_tongyong_jiangexian.png" path="/Images/Img1/"/>
+    <image id="rrza4a" name="image_nfy_common_ui_new_tongyong_jiougongdiban.png" path="/Images/Img1/"/>
+    <image id="rrza4b" name="image_nfy_common_ui_new_tongyong_jiougongdiban3.png" path="/Images/Img1/"/>
+    <image id="rrza4c" name="image_nfy_common_ui_new_tongyong_paihangshuzi_1.png" path="/Images/Img1/"/>
+    <image id="rrza4d" name="image_nfy_common_ui_new_tongyong_paihangshuzi_2.png" path="/Images/Img1/"/>
+    <image id="rrza4e" name="image_nfy_common_ui_new_tongyong_paihangshuzi_3.png" path="/Images/Img1/"/>
+    <image id="rrza4f" name="image_nfy_common_ui_new_tongyong_pinji_r.png" path="/Images/Img1/"/>
+    <image id="rrza4g" name="image_nfy_common_ui_new_tongyong_pinji_sr.png" path="/Images/Img1/"/>
+    <image id="rrza4h" name="image_nfy_common_ui_new_tongyong_pinji_ssr.png" path="/Images/Img1/"/>
+    <image id="rrza4i" name="image_nfy_common_ui_new_tongyong_pinji_ur.png" path="/Images/Img1/"/>
+    <image id="rrza4j" name="image_nfy_common_ui_new_tongyong_suo1.png" path="/Images/Img1/"/>
+    <image id="rrza4k" name="image_nfy_common_ui_new_tongyong_suo2.png" path="/Images/Img1/"/>
+    <image id="rrza4l" name="image_nfy_common_ui_new_tongyong_touxiangkuangda.png" path="/Images/Img1/"/>
+    <image id="rrza4m" name="image_nfy_common_ui_new_tongyong_touxiangkuangxiao.png" path="/Images/Img1/"/>
+    <image id="rrza4n" name="image_nfy_common_ui_new_tongyong_xiaoanniou.png" path="/Images/Img1/"/>
+    <image id="rrza4o" name="image_nfy_common_ui_new_tongyong_xiaobiaoti.png" path="/Images/Img1/"/>
+    <image id="rrza4p" name="image_nfy_common_ui_new_tongyong_xiaoxiaoanniou.png" path="/Images/Img1/"/>
+    <image id="rrza4q" name="image_nfy_common_ui_new_tongyong_yeqian_1.png" path="/Images/Img1/"/>
+    <image id="rrza4r" name="image_nfy_common_ui_new_tongyong_yeqian_2.png" path="/Images/Img1/"/>
+    <image id="rrza4s" name="image_nfy_common_ui_new_tongyong_zhuangbeidiban_bai.png" path="/Images/Img1/"/>
+    <image id="rrza4t" name="image_nfy_common_ui_new_tongyong_zhuangbeidiban_cai.png" path="/Images/Img1/"/>
+    <image id="rrza4u" name="image_nfy_common_ui_new_tongyong_zhuangbeidiban_cheng.png" path="/Images/Img1/"/>
+    <image id="rrza4v" name="image_nfy_common_ui_new_tongyong_zhuangbeidiban_diban.png" path="/Images/Img1/"/>
+    <image id="rrza4w" name="image_nfy_common_ui_new_tongyong_zhuangbeidiban_fen.png" path="/Images/Img1/"/>
+    <image id="rrza4x" name="image_nfy_common_ui_new_tongyong_zhuangbeidiban_lan.png" path="/Images/Img1/"/>
+    <image id="rrza4y" name="image_nfy_common_ui_new_tongyong_zhuangbeidiban_lv.png" path="/Images/Img1/"/>
+    <image id="rrza4z" name="image_nfy_common_ui_new_tongyong_zhuangbeidiban_xuanzhong.png" path="/Images/Img1/"/>
+    <image id="rrza50" name="image_nfy_common_ui_new_tongyong_zhuangbeidiban_zise.png" path="/Images/Img1/"/>
+    <image id="rrza51" name="image_nfy_common_ui_new_tongyong_zhuangshi.png" path="/Images/Img1/"/>
+    <image id="rrza52" name="image_nfy_common_ui_new_tongyong_ziyuantiao_1.png" path="/Images/Img1/"/>
+    <image id="rrza53" name="image_nfy_common_ui_new_tongyong_ziyuantiao_2.png" path="/Images/Img1/"/>
+    <image id="rrza54" name="image_nfy_common_ui_new_tongyong_ziyuantiao_3.png" path="/Images/Img1/"/>
+    <image id="rrza55" name="image_nfy_common_ui_new_tongyong_ziyuantiao_back.png" path="/Images/Img1/"/>
+    <image id="rrza56" name="image_nfy_common_ui_new_tongyong_ziyuantiao_wenhao.png" path="/Images/Img1/"/>
+    <image id="rrza57" name="image_nfy_common_ui_new_tongyong_ziyuantiao_wenhao2.png" path="/Images/Img1/"/>
+    <image id="rrza58" name="image_nfy_common_ui_paihang_diban.png" path="/Images/Img1/"/>
+    <image id="rrza59" name="image_nfy_common_ui_paihang_fengetiao.png" path="/Images/Img1/"/>
+    <image id="rrza5a" name="image_nfy_common_ui_paihang_shangxian.png" path="/Images/Img1/"/>
+    <image id="rrza5b" name="image_nfy_common_ui_paihang_shuzi_1.png" path="/Images/Img1/"/>
+    <image id="rrza5c" name="image_nfy_common_ui_paihang_shuzi_2.png" path="/Images/Img1/"/>
+    <image id="rrza5d" name="image_nfy_common_ui_paihang_shuzi_3.png" path="/Images/Img1/"/>
+    <image id="rrza5e" name="image_nfy_common_ui_shangcheng_anniou.png" path="/Images/Img1/"/>
+    <image id="rrza5f" name="image_nfy_common_ui_shangcheng_anniou2.png" path="/Images/Img1/"/>
+    <image id="rrza5g" name="image_nfy_common_ui_shenqi_jiantou2.png" path="/Images/Img1/"/>
+    <image id="rrza5h" name="image_nfy_common_ui_shenqi_shengji_guanbi.png" path="/Images/Img1/"/>
+    <image id="rrza5i" name="image_nfy_common_ui_shenqi_shengji_guanbi_g.png" path="/Images/Img1/"/>
+    <image id="rrza5j" name="image_nfy_common_ui_shizhuang_kuang_bai.png" path="/Images/Img1/"/>
+    <image id="rrza5k" name="image_nfy_common_ui_shizhuang_kuang_fen.png" path="/Images/Img1/"/>
+    <image id="rrza5l" name="image_nfy_common_ui_shizhuang_kuang_huang.png" path="/Images/Img1/"/>
+    <image id="rrza5m" name="image_nfy_common_ui_shizhuang_kuang_lan.png" path="/Images/Img1/"/>
+    <image id="rrza5n" name="image_nfy_common_ui_shizhuang_kuang_lv.png" path="/Images/Img1/"/>
+    <image id="rrza5o" name="image_nfy_common_ui_shizhuang_kuang_zi.png" path="/Images/Img1/"/>
+    <image id="rrza5p" name="image_nfy_common_ui_shouliexingdong_an.png" path="/Images/Img1/"/>
+    <image id="rrza5q" name="image_nfy_common_ui_shouliexingdong_jiahao.png" path="/Images/Img1/"/>
+    <image id="rrza5r" name="image_nfy_common_ui_shouliexingdong_tips_dian1.png" path="/Images/Img1/"/>
+    <image id="rrza5s" name="image_nfy_common_ui_shouliexingdong_tips_dian2.png" path="/Images/Img1/"/>
+    <image id="rrza5t" name="image_nfy_common_ui_shuxingxinxi_common_xiajiantou.png" path="/Images/Img1/"/>
+    <image id="rrza5u" name="image_nfy_common_ui_shuxingxinxi_tubiao_liliang.png" path="/Images/Img1/"/>
+    <image id="rrza5v" name="image_nfy_common_ui_shuxingxinxi_tubiao_liliang2.png" path="/Images/Img1/"/>
+    <image id="rrza5w" name="image_nfy_common_ui_shuxingxinxi_tubiao_minjie.png" path="/Images/Img1/"/>
+    <image id="rrza5x" name="image_nfy_common_ui_shuxingxinxi_tubiao_minjie2.png" path="/Images/Img1/"/>
+    <image id="rrza5y" name="image_nfy_common_ui_shuxingxinxi_tubiao_mofafangyu.png" path="/Images/Img1/"/>
+    <image id="rrza5z" name="image_nfy_common_ui_shuxingxinxi_tubiao_mofafangyu2.png" path="/Images/Img1/"/>
+    <image id="rrza60" name="image_nfy_common_ui_shuxingxinxi_tubiao_mofagongji.png" path="/Images/Img1/"/>
+    <image id="rrza61" name="image_nfy_common_ui_shuxingxinxi_tubiao_mofagongji2.png" path="/Images/Img1/"/>
+    <image id="rrza62" name="image_nfy_common_ui_shuxingxinxi_tubiao_shengming.png" path="/Images/Img1/"/>
+    <image id="rrza63" name="image_nfy_common_ui_shuxingxinxi_tubiao_shengming2.png" path="/Images/Img1/"/>
+    <image id="rrza64" name="image_nfy_common_ui_shuxingxinxi_tubiao_tizhi.png" path="/Images/Img1/"/>
+    <image id="rrza65" name="image_nfy_common_ui_shuxingxinxi_tubiao_tizhi2.png" path="/Images/Img1/"/>
+    <image id="rrza66" name="image_nfy_common_ui_shuxingxinxi_tubiao_wulifangyu.png" path="/Images/Img1/"/>
+    <image id="rrza67" name="image_nfy_common_ui_shuxingxinxi_tubiao_wulifangyu2.png" path="/Images/Img1/"/>
+    <image id="rrza68" name="image_nfy_common_ui_shuxingxinxi_tubiao_wuligongji.png" path="/Images/Img1/"/>
+    <image id="rrza69" name="image_nfy_common_ui_shuxingxinxi_tubiao_wuligongji2.png" path="/Images/Img1/"/>
+    <image id="rrza6a" name="image_nfy_common_ui_shuxingxinxi_tubiao_zhenshishanghai.png" path="/Images/Img1/"/>
+    <image id="rrza6b" name="image_nfy_common_ui_shuxingxinxi_tubiao_zhenshishanghai2.png" path="/Images/Img1/"/>
+    <image id="rrza6c" name="image_nfy_common_ui_shuxingxinxi_tubiao_zhili.png" path="/Images/Img1/"/>
+    <image id="rrza6d" name="image_nfy_common_ui_shuxingxinxi_tubiao_zhili2.png" path="/Images/Img1/"/>
+    <image id="rrza6e" name="image_nfy_common_ui_shuxingxinxi_tubiao_zhimingdikang.png" path="/Images/Img1/"/>
+    <image id="rrza6f" name="image_nfy_common_ui_shuxingxinxi_tubiao_zhimingdikang2.png" path="/Images/Img1/"/>
+    <image id="rrza6g" name="image_nfy_common_ui_shuxingxinxi_tubiao_zhimingshanghai.png" path="/Images/Img1/"/>
+    <image id="rrza6h" name="image_nfy_common_ui_shuxingxinxi_tubiao_zhimingshanghai2.png" path="/Images/Img1/"/>
+    <image id="rrza6i" name="image_nfy_common_ui_shuxingxinxi_tubiao_zhimingyiji.png" path="/Images/Img1/"/>
+    <image id="rrza6j" name="image_nfy_common_ui_shuxingxinxi_tubiao_zhimingyiji2.png" path="/Images/Img1/"/>
+    <image id="rrza6k" name="image_nfy_common_ui_shuxingxinxi_xianshibiaoji.png" path="/Images/Img1/"/>
+    <image id="rrza6l" name="image_nfy_common_ui_songhua_icon_huoqutuj.png" path="/Images/Img1/"/>
+    <image id="rrza6m" name="image_nfy_common_ui_story_mask.png" path="/Images/Img1/"/>
+    <image id="rrza6n" name="image_nfy_common_ui_tanchuangjiangli_guanbi.png" path="/Images/Img1/"/>
+    <image id="rrza6o" name="image_nfy_common_ui_tanchuanglibao_an.png" path="/Images/Img1/"/>
+    <image id="rrza6p" name="image_nfy_common_ui_tanchuanglibao_dian1.png" path="/Images/Img1/"/>
+    <image id="rrza6q" name="image_nfy_common_ui_tanchuanglibao_dian2.png" path="/Images/Img1/"/>
+    <image id="rrza6r" name="image_nfy_common_ui_tanchuanglibao_diandi.png" path="/Images/Img1/"/>
+    <image id="rrza6s" name="image_nfy_common_ui_tanchuanglibao_jiantou.png" path="/Images/Img1/"/>
+    <image id="rrza6t" name="image_nfy_common_ui_tanchuanglibao_qian.png" path="/Images/Img1/"/>
+    <image id="rrza6u" name="image_nfy_common_ui_tanchuanglibao_zhekou.png" path="/Images/Img1/"/>
+    <image id="rrza6v" name="image_nfy_common_ui_tankuang_bangzhu.png" path="/Images/Img1/"/>
+    <image id="rrza6w" name="image_nfy_common_ui_tankuang_bangzhuwenhao.png" path="/Images/Img1/"/>
+    <image id="rrza6x" name="image_nfy_common_ui_tankuang_bg.png" path="/Images/Img1/"/>
+    <image id="rrza6y" name="image_nfy_common_ui_tankuang_bg_02.png" path="/Images/Img1/"/>
+    <image id="rrza6z" name="image_nfy_common_ui_tankuang_bg_zhuangshi.png" path="/Images/Img1/"/>
+    <image id="rrza70" name="image_nfy_common_ui_tankuang_jiantou.png" path="/Images/Img1/"/>
+    <image id="rrza71" name="image_nfy_common_ui_tankuang_jiantou_zhuanjiao.png" path="/Images/Img1/"/>
+    <image id="rrza72" name="image_nfy_common_ui_tankuang_qianghua_bn_huoqutujing.png" path="/Images/Img1/"/>
+    <image id="rrza73" name="image_nfy_common_ui_tankuang_qianghua_bn_huoqutujing_g.png" path="/Images/Img1/"/>
+    <image id="rrza74" name="image_nfy_common_ui_tankuang_xilian_xitiao_bg.png" path="/Images/Img1/"/>
+    <image id="rrza75" name="image_nfy_common_ui_tankuang_xilian_xitiao_bg_g.png" path="/Images/Img1/"/>
+    <image id="rrza76" name="image_nfy_common_ui_tankuang_zhuyi.png" path="/Images/Img1/"/>
+    <image id="rrza77" name="image_nfy_common_ui_tankuang_zi_bangzhu.png" path="/Images/Img1/"/>
+    <image id="rrza78" name="image_nfy_common_ui_tansuo_diaoluoup.png" path="/Images/Img1/"/>
+    <image id="rrza79" name="image_nfy_common_ui_tb_diwen_huizhang2.png" path="/Images/Img1/"/>
+    <image id="rrza7a" name="image_nfy_common_ui_tb_qianghuazhuangbei_xiao.png" path="/Images/Img1/"/>
+    <image id="rrza7b" name="image_nfy_common_ui_tb_yinxiao.png" path="/Images/Img1/"/>
+    <image id="rrza7c" name="image_nfy_common_ui_tb_yinyue.png" path="/Images/Img1/"/>
+    <image id="rrza7d" name="image_nfy_common_ui_tb_ziyuan_1.png" path="/Images/Img1/"/>
+    <image id="rrza7e" name="image_nfy_common_ui_tb_ziyuan_2.png" path="/Images/Img1/"/>
+    <image id="rrza7f" name="image_nfy_common_ui_tb_ziyuan_3.png" path="/Images/Img1/"/>
+    <image id="rrza7g" name="image_nfy_common_ui_tequan_an_meirilibao.png" path="/Images/Img1/"/>
+    <image id="rrza7h" name="image_nfy_common_ui_tequan_an_meirilibao_y.png" path="/Images/Img1/"/>
+    <image id="rrza7i" name="image_nfy_common_ui_tesewanfa_suo.png" path="/Images/Img1/"/>
+    <image id="rrza7j" name="image_nfy_common_ui_tongyong_an_cishu_di.png" path="/Images/Img1/"/>
+    <image id="rrza7k" name="image_nfy_common_ui_tongyong_an_cishu_jia.png" path="/Images/Img1/"/>
+    <image id="rrza7l" name="image_nfy_common_ui_tongyong_anniu_lan.png" path="/Images/Img1/"/>
+    <image id="rrza7m" name="image_nfy_common_ui_tongyong_anniu_zi.png" path="/Images/Img1/"/>
+    <image id="rrza7n" name="image_nfy_common_ui_tongyong_diaolv1.png" path="/Images/Img1/"/>
+    <image id="rrza7o" name="image_nfy_common_ui_tongyong_diaolv2.png" path="/Images/Img1/"/>
+    <image id="rrza7p" name="image_nfy_common_ui_tongyong_diaolv3.png" path="/Images/Img1/"/>
+    <image id="rrza7q" name="image_nfy_common_ui_tongyong_gou1.png" path="/Images/Img1/"/>
+    <image id="rrza7r" name="image_nfy_common_ui_tongyong_gou1_k.png" path="/Images/Img1/"/>
+    <image id="rrza7s" name="image_nfy_common_ui_tongyong_jiaobiao_huodong.png" path="/Images/Img1/"/>
+    <image id="rrza7t" name="image_nfy_common_ui_tongyong_wz_xingxing.png" path="/Images/Img1/" exported="true"/>
+    <image id="rrza7u" name="image_nfy_common_ui_tongyong_wz_xingxing_hui.png" path="/Images/Img1/" exported="true"/>
+    <image id="rrza7v" name="image_nfy_common_ui_tujian_gou.png" path="/Images/Img1/"/>
+    <image id="rrza7w" name="image_nfy_common_ui_tujian_goudi.png" path="/Images/Img1/"/>
+    <image id="rrza7x" name="image_nfy_common_ui_ty_an_guanbi.png" path="/Images/Img1/"/>
+    <image id="rrza7y" name="image_nfy_common_ui_ty_an_guanbi_g.png" path="/Images/Img1/"/>
+    <image id="rrza7z" name="image_nfy_common_ui_ty_an_qieye.png" path="/Images/Img1/"/>
+    <image id="rrza80" name="image_nfy_common_ui_ty_an_qieye_g.png" path="/Images/Img1/"/>
+    <image id="rrza81" name="image_nfy_common_ui_ty_an_xiaojia.png" path="/Images/Img1/"/>
+    <image id="rrza82" name="image_nfy_common_ui_ty_an_xiaojia_g.png" path="/Images/Img1/"/>
+    <image id="rrza83" name="image_nfy_common_ui_ty_bn_diyu.png" path="/Images/Img1/"/>
+    <image id="rrza84" name="image_nfy_common_ui_ty_bn_diyu_g.png" path="/Images/Img1/"/>
+    <image id="rrza85" name="image_nfy_common_ui_ty_bn_diyusuo.png" path="/Images/Img1/"/>
+    <image id="rrza86" name="image_nfy_common_ui_ty_bn_diyusuo_g.png" path="/Images/Img1/"/>
+    <image id="rrza87" name="image_nfy_common_ui_ty_bn_huang.png" path="/Images/Img1/"/>
+    <image id="rrza88" name="image_nfy_common_ui_ty_bn_huang_g.png" path="/Images/Img1/"/>
+    <image id="rrza89" name="image_nfy_common_ui_ty_bn_huang2.png" path="/Images/Img1/"/>
+    <image id="rrza8a" name="image_nfy_common_ui_ty_bn_huang2_g.png" path="/Images/Img1/"/>
+    <image id="rrza8b" name="image_nfy_common_ui_ty_bn_hui.png" path="/Images/Img1/"/>
+    <image id="rrza8c" name="image_nfy_common_ui_ty_bn_hui_g.png" path="/Images/Img1/"/>
+    <image id="rrza8d" name="image_nfy_common_ui_ty_bn_jingying.png" path="/Images/Img1/"/>
+    <image id="rrza8e" name="image_nfy_common_ui_ty_bn_jingying_g.png" path="/Images/Img1/"/>
+    <image id="rrza8f" name="image_nfy_common_ui_ty_bn_lan.png" path="/Images/Img1/"/>
+    <image id="rrza8g" name="image_nfy_common_ui_ty_bn_lan_g.png" path="/Images/Img1/"/>
+    <image id="rrza8h" name="image_nfy_common_ui_ty_bn_lan2.png" path="/Images/Img1/"/>
+    <image id="rrza8i" name="image_nfy_common_ui_ty_bn_lan2_g.png" path="/Images/Img1/"/>
+    <image id="rrza8j" name="image_nfy_common_ui_ty_daoju_dongjie.png" path="/Images/Img1/"/>
+    <image id="rrza8k" name="image_nfy_common_ui_ty_nandu_diyu.png" path="/Images/Img1/"/>
+    <image id="rrza8l" name="image_nfy_common_ui_ty_nandu_jiandan.png" path="/Images/Img1/"/>
+    <image id="rrza8m" name="image_nfy_common_ui_ty_nandu_jingying.png" path="/Images/Img1/"/>
+    <image id="rrza8n" name="image_nfy_common_ui_ty_nandu_putong.png" path="/Images/Img1/"/>
+    <image id="rrza8o" name="image_nfy_common_ui_ty_tanchudikuang_hei.png" path="/Images/Img1/"/>
+    <image id="rrza8p" name="image_nfy_common_ui_ty_zhuangshi_heibiao.png" path="/Images/Img1/" exported="true"/>
+    <image id="rrza8q" name="image_nfy_common_ui_ty_zhuangshi_landian.png" path="/Images/Img1/"/>
+    <image id="rrza8r" name="image_nfy_common_ui_ty_zhuangshi_tiao.png" path="/Images/Img1/" exported="true"/>
+    <image id="rrza8s" name="image_nfy_common_ui_ty_zhuangshi_tupian_1.png" path="/Images/Img1/"/>
+    <image id="rrza8t" name="image_nfy_common_ui_ty_zhuangshixian1.png" path="/Images/Img1/"/>
+    <image id="rrza8u" name="image_nfy_common_ui_ty_ziyuantiao2.png" path="/Images/Img1/"/>
+    <image id="rrza8v" name="image_nfy_common_ui_wuzhuang3_jiantou1.png" path="/Images/Img1/"/>
+    <image id="rrza8w" name="image_nfy_common_ui_xian_chunbai_xiangsu1.png" path="/Images/Img1/"/>
+    <image id="rrza8x" name="image_nfy_common_ui_xinwuzhuang_yeqian_dikuang.png" path="/Images/Img1/"/>
+    <image id="rrza8y" name="image_nfy_common_ui_xuanzekuang_01.png" path="/Images/Img1/"/>
+    <image id="rrza8z" name="image_nfy_common_ui_xuanzekuang_02.png" path="/Images/Img1/"/>
+    <image id="rrza90" name="image_nfy_common_ui_xuanzekuang_04.png" path="/Images/Img1/"/>
+    <image id="rrza91" name="image_nfy_common_ui_xuanzekuang_duihao.png" path="/Images/Img1/"/>
+    <image id="rrza92" name="image_nfy_common_ui_xuanzekuang_duihao_04.png" path="/Images/Img1/"/>
+    <image id="rrza93" name="image_nfy_common_ui_xuanzekuang_yixuanzhong.png" path="/Images/Img1/"/>
+    <image id="rrza94" name="image_nfy_common_ui_yijie_tanchuangdikuang.png" path="/Images/Img1/"/>
+    <image id="rrza95" name="image_nfy_common_ui_yilingqu.png" path="/Images/Img1/"/>
+    <image id="rrza96" name="image_nfy_common_ui_yinengshi_jiantou1.png" path="/Images/Img1/"/>
+    <image id="rrza97" name="image_nfy_common_ui_yinengshi_jiantou2.png" path="/Images/Img1/"/>
+    <image id="rrza98" name="image_nfy_common_ui_yinengshi_tishengdiban.png" path="/Images/Img1/"/>
+    <image id="rrza99" name="image_nfy_common_ui_zhandouli_bg.png" path="/Images/Img1/"/>
+    <image id="rrza9a" name="image_nfy_common_ui_zhandouli_bg_shangsheng.png" path="/Images/Img1/"/>
+    <image id="rrza9b" name="image_nfy_common_ui_zhandouli_bg_xiajiang.png" path="/Images/Img1/"/>
+    <image id="rrza9c" name="image_nfy_common_ui_zhanlitisheng_zhanlitips.png" path="/Images/Img1/"/>
+    <image id="rrza9d" name="image_nfy_common_ui_zhuangbei_common_jianding.png" path="/Images/Img1/"/>
+    <image id="rrza9e" name="image_nfy_common_ui_zhuangbei_max.png" path="/Images/Img1/"/>
+    <image id="rrza9f" name="image_nfy_common_ui_zhuangbei_shangshengjiantou.png" path="/Images/Img1/"/>
+    <image id="rrza9g" name="image_nfy_common_ui_zhuangbei_zhujiemian_bn_fanhui.png" path="/Images/Img1/"/>
+    <image id="rrza9h" name="image_nfy_common_ui_zhuangbei_zhujiemian_bn_fanhui_g.png" path="/Images/Img1/"/>
+    <image id="rrza9i" name="image_nfy_common_ui_zhuangbei_zhujiemian_xuanzhongguang.png" path="/Images/Img1/"/>
+    <image id="rrza9j" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_bai.png" path="/Images/Img1/"/>
+    <image id="rrza9k" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_common_bangding.png" path="/Images/Img1/"/>
+    <image id="rrza9l" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_common_fangdajing.png" path="/Images/Img1/"/>
+    <image id="rrza9m" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_common_wujiaoxing.png" path="/Images/Img1/"/>
+    <image id="rrza9n" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_fen.png" path="/Images/Img1/"/>
+    <image id="rrza9o" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_huang.png" path="/Images/Img1/"/>
+    <image id="rrza9p" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_hui.png" path="/Images/Img1/"/>
+    <image id="rrza9q" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_lan.png" path="/Images/Img1/"/>
+    <image id="rrza9r" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_lv.png" path="/Images/Img1/"/>
+    <image id="rrza9s" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_zi.png" path="/Images/Img1/"/>
+    <image id="rrza9t" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_zzz.png" path="/Images/Img1/"/>
+    <image id="rrza9u" name="image_nfy_common_ui_zhuangshi_tiao.png" path="/Images/Img1/"/>
+    <image id="rrza9v" name="image_nfy_common_ui_zhucheng_tips.png" path="/Images/Img1/"/>
+    <image id="rrza9w" name="image_nfy_common_ui_zi_weidacheng.png" path="/Images/Img1/"/>
+    <image id="rrza9x" name="image_nfy_common_ui_zudui_gou.png" path="/Images/Img1/"/>
+    <image id="rrza9y" name="image_nfy_common_ui_zudui_goudi.png" path="/Images/Img1/"/>
+    <image id="rrza9z" name="image_nfy_common_ui_zudui_tanchuang_liebiao_bg.png" path="/Images/Img1/"/>
+    <image id="rrzaa0" name="image_nfy_common_ui_zudui_tanchuang_liebiao_bg_xixian.png" path="/Images/Img1/"/>
+    <image id="rrzaa1" name="image_nfy_maincity_ui_zhucheng_huodongfulishijian.png" path="/Images/Img1/"/>
+    <sound id="rrzaa2" name="ui_clickclose.mp3" path="/Audio/" exported="true"/>
+    <sound id="rrzaa3" name="ui_clickopen.mp3" path="/Audio/" exported="true"/>
+    <sound id="rrzaa4" name="ui_click1.mp3" path="/Audio/" exported="true"/>
+    <sound id="rrzaa5" name="ui_click2.mp3" path="/Audio/" exported="true"/>
+    <sound id="rrzaa6" name="ui_open_1.mp3" path="/Audio/" exported="true"/>
+    <sound id="rrzaa7" name="ui_close_1.mp3" path="/Audio/" exported="true"/>
+    <sound id="rrzaaa" name="ui_open_2.mp3" path="/Audio/" exported="true"/>
+    <sound id="rrzaab" name="ui_close_2.mp3" path="/Audio/" exported="true"/>
+    <sound id="rrzaac" name="ui_open_3.mp3" path="/Audio/" exported="true"/>
+    <sound id="rrzaad" name="ui_close_3.mp3" path="/Audio/" exported="true"/>
+    <sound id="rrzaae" name="ui_open_4.mp3" path="/Audio/" exported="true"/>
+    <sound id="rrzaaf" name="ui_close_4.mp3" path="/Audio/" exported="true"/>
+    <component id="rrzaag" name="ButtonHelpTitle.xml" path="/Widgets/" exported="true"/>
+    <component id="rrzaah" name="ButtonYes.xml" path="/Widgets/" exported="true"/>
+    <component id="rrzaai" name="WindowTitleBar.xml" path="/Widgets/Win1/"/>
+    <component id="rrzaaj" name="WinFrame1.xml" path="/Widgets/Win1/"/>
+    <component id="rrzaak" name="ButtonNo.xml" path="/Widgets/" exported="true"/>
+    <image id="mwfiap" name="image_nfy_role_ui_jiaoshejiemian_mingzidiban.png" path="/Images/Img1/" scale="9grid" scale9grid="10,12,20,24"/>
+    <image id="mwfiau" name="image_nfy_role_ui_jiaoshejiemian_zhezhaodiban.png" path="/Images/Img1/" scale="9grid" scale9grid="10,12,20,24"/>
+    <component id="mwfiav" name="ButtonBack.xml" path="/Widgets/" exported="true"/>
+    <image id="mwfiaw" name="image_nfy_skill_ui_jinengbofang_zi.png" path="/Images/Img1/" exported="true"/>
+    <image id="mwfiay" name="fy_front_title_small.png" path="/Fonts/" exported="true"/>
+    <font id="mwfiax" name="fy_front_title_small.fnt" path="/Fonts/" exported="true" texture="mwfiay"/>
+    <font id="mwfiaz" name="fangzhengzhunyuan_GBK.TTF" path="/Fonts/" exported="true" renderMode="" samplePointSize="16"/>
+    <component id="mwfib0" name="ButtonTemp1.xml" path="/Widgets/" exported="true"/>
+    <component id="mwfi1e" name="ScrollText.xml" path="/Widgets/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

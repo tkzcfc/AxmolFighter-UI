@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="170,50" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n2_mwfi" name="icon_normal" xy="0,0" size="170,50" url="ui://xsbz3guorrza8f" autoSize="true">
+      <gearDisplay controller="button" pages="0,2"/>
+    </loader>
+    <loader id="n3_mwfi" name="icon_press" xy="0,0" size="170,50" url="ui://xsbz3guorrza8g" autoSize="true">
+      <gearDisplay controller="button" pages="1,2,3"/>
+    </loader>
+    <text id="n1_rrza" name="title" xy="0,0" size="170,50" font="ui://xsbz3guorrza1o" fontSize="22" color="#002a69" align="center" vAlign="middle" autoSize="none" singleLine="true" text="确定">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button sound="ui://xsbz3guorrzaa4" downEffect="scale" downEffectValue=".95"/>
+  <customProperty target="icon_normal" propertyId="1" label="普通图片"/>
+  <customProperty target="icon_press" propertyId="1" label="按下图片"/>
+</component>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <loader3D id="n0_mwfi" name="n0" xy="-422,28" size="4424,1480" scale="0.5,0.5" url="ui://yepb0cf9mwfi54" animation="xiaoguotu" skin="" loop="true"/>
+  </displayList>
+</component>

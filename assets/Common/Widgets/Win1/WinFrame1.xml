@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="471,300">
+  <displayList>
+    <image id="n0_rrza" name="n0" src="rrza3x" fileName="Images/Img1/image_nfy_common_ui_new_tongyong_erji_diban.png" xy="0,65" size="471,235">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n1_rrza" name="title" src="rrzaai" fileName="Widgets/Win1/WindowTitleBar.xml" xy="0,0" size="471,68">
+      <relation target="" sidePair="width-width,top-top"/>
+      <Label title="我是标题文本"/>
+    </component>
+  </displayList>
+</component>

@@ -1,3 +1,8 @@
 {
-  "langFiles": []
+  "langFiles": [
+    {
+      "name": "lang_en",
+      "path": "D:\\work\\AxmolFighter\\AxmolFighter-UI\\lang_en.xml"
+    }
+  ]
 }

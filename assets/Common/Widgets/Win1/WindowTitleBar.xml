@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="471,68" extention="Label">
+  <displayList>
+    <image id="n0_rrza" name="n0" src="rrza3o" fileName="Images/Img1/image_nfy_common_ui_new_tongyong_dibantiao.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_rrza" name="n1" src="rrza3u" fileName="Images/Img1/image_nfy_common_ui_new_tongyong_erji_.png" xy="28,24">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </image>
+    <text id="n2_rrza" name="title" xy="51,18" size="136,32" fontSize="22" color="#ffffff" singleLine="true" text="窗口标题文本">
+      <relation target="" sidePair="left-left"/>
+    </text>
+    <component id="n3_rrza" name="btnClose" src="edc11c" fileName="Widgets/ButtonClose.xml" xy="411,4">
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </component>
+    <component id="n4_mwfi" name="n4" src="rrzaag" fileName="Widgets/ButtonHelpTitle.xml" xy="186,13">
+      <relation target="n2_rrza" sidePair="left-right"/>
+    </component>
+  </displayList>
+</component>

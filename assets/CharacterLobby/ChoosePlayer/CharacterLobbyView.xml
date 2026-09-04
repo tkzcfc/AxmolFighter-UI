@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <loader id="n1_mwfi" name="n1" xy="0,0" size="1280,720" url="ui://yepb0cf9mwfi59" fill="scaleNoBorder">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n2_mwfi" name="n2" src="rrza8p" fileName="Images/Img1/image_nfy_common_ui_ty_zhuangshi_heibiao.png" pkg="xsbz3guo" xy="-160,0" size="1600,64" flip="vt">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n3_mwfi" name="n3" src="rrza8p" fileName="Images/Img1/image_nfy_common_ui_ty_zhuangshi_heibiao.png" pkg="xsbz3guo" xy="-160,656" size="1600,64">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <image id="n5_mwfi" name="n5" src="rrza2k" fileName="Images/Img1/image_nfy_common_ui_fangtankuang_bg_zhuangshi.png" pkg="xsbz3guo" xy="24,9" size="200,43" aspect="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <image id="n4_mwfi" name="n4" src="rrza8r" fileName="Images/Img1/image_nfy_common_ui_ty_zhuangshi_tiao.png" pkg="xsbz3guo" xy="0,606">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </image>
+    <text id="n6_mwfi" name="n6" xy="20,19" size="100,31" font="ui://yepb0cf9mwfi52" fontSize="22" color="#ffffff" text="选择角色">
+      <relation target="" sidePair="left-left,top-top"/>
+    </text>
+    <text id="n7_mwfi" name="n7" xy="120,24" size="101,24" font="ui://xsbz3guomwfiax" fontSize="22" color="#ffffff" text="CHOICE OF ROLES">
+      <relation target="" sidePair="right-left,top-top"/>
+    </text>
+    <list id="n11_mwfi" name="charactorList" xy="190,120" size="900,500" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="8" defaultItem="ui://yepb0cf9qn651o" autoItemSize="false" vAlign="bottom" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n9_mwfi" name="startGameBtn" src="su8j1n" fileName="ChoosePlayer/StartGameButton.xml" xy="1047,629" aspect="true">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <component id="n10_mwfi" name="createPlayerBtn" src="mwfi4s" fileName="CreatePlayer/CreateButton.xml" xy="773,628">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

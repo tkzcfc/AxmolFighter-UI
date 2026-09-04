@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="328,197">
+  <displayList>
+    <image id="n0_mwfi" name="n0" src="mwfi3w" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_zhujiemian_video1.png" xy="0,0"/>
+    <loader id="n1_mwfi" name="n1" xy="6,48" size="311,106" visible="false" url="ui://yepb0cf9mwfi3j" autoSize="true"/>
+    <image id="n2_mwfi" name="n2" src="mwfiaw" fileName="Images/Img1/image_nfy_skill_ui_jinengbofang_zi.png" pkg="xsbz3guo" xy="101,90"/>
+  </displayList>
+</component>

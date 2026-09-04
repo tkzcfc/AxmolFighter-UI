@@ -6,5 +6,6 @@
     <image id="n2_edc1" name="n2" src="edc1m" fileName="Images/img_black.png" xy="611,159" size="139,179"/>
     <image id="n3_edc1" name="n3" src="edc1n" fileName="Images/img_frame_bar_bg.png" xy="324,279"/>
     <image id="n4_edc1" name="n4" src="edc1o" fileName="Images/img_frame_bg.png" xy="351,135" size="239,131"/>
+    <component id="n5_rrza" name="n5" src="rrzaai" fileName="Widgets/Win1/WindowTitleBar.xml" xy="158,396"/>
   </displayList>
 </component>

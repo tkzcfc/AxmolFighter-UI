@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="480,295" restrictSize="480,0,288,0">
+  <controller name="c1" pages="0,single,1,double" selected="0"/>
+  <displayList>
+    <image id="n0_edc1" name="n0" src="rrza2i" fileName="Images/Img1/image_nfy_common_ui_fangtankuang_bg.png" xy="0,0" size="480,295">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3_edc1" name="title" xy="36,2" size="56,36" font="ui://xsbz3guorrza1n" fontSize="26" color="#ffffff" align="center" singleLine="true" text="提示">
+      <relation target="" sidePair="left-left,top-top"/>
+    </text>
+    <component id="n5_edc1" name="confirmButtonCenter" src="mwfib0" fileName="Widgets/ButtonTemp1.xml" xy="155,222">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="确认"/>
+      <property target="icon_normal" propertyId="1" value="ui://xsbz3guorrza87"/>
+      <property target="icon_press" propertyId="1" value="ui://xsbz3guorrza88"/>
+    </component>
+    <component id="n6_edc1" name="textContent" src="mwfi1e" fileName="Widgets/ScrollText.xml" xy="8,38" size="463,170"/>
+    <component id="n7_edc1" name="confirmButton" src="mwfib0" fileName="Widgets/ButtonTemp1.xml" xy="27,222">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="取消"/>
+    </component>
+    <component id="n8_edc1" name="cancelButton" src="mwfib0" fileName="Widgets/ButtonTemp1.xml" xy="292,221">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="确认" titleColor="#691100"/>
+      <property target="icon_normal" propertyId="1" value="ui://xsbz3guorrza87"/>
+      <property target="icon_press" propertyId="1" value="ui://xsbz3guorrza88"/>
+    </component>
+    <image id="n11_mwfi" name="n11" src="rrza2l" fileName="Images/Img1/image_nfy_common_ui_fangtankuang_bg_zhuangshi_shutiao.png" xy="19,3">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <image id="n12_mwfi" name="n12" src="rrza2k" fileName="Images/Img1/image_nfy_common_ui_fangtankuang_bg_zhuangshi.png" xy="95,8">
+      <relation target="n3_edc1" sidePair="left-right,top-top"/>
+    </image>
+  </displayList>
+  <customProperty target="content" propertyId="0" label="内容"/>
+</component>

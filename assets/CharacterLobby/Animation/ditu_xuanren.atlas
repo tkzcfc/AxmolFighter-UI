@@ -1,0 +1,202 @@
+
+ditu_xuanren.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+case_guizi
+  rotate: true
+  xy: 2144, 2
+  size: 916, 1710
+  orig: 916, 1710
+  offset: 0, 0
+  index: -1
+case_guizi_logo
+  rotate: true
+  xy: 332, 3201
+  size: 276, 288
+  orig: 276, 290
+  offset: 0, 1
+  index: -1
+distant_boli
+  rotate: false
+  xy: 2, 1518
+  size: 1603, 450
+  orig: 1603, 450
+  offset: 0, 0
+  index: -1
+distant_diaosu
+  rotate: false
+  xy: 2483, 2686
+  size: 654, 354
+  orig: 746, 528
+  offset: 2, 172
+  index: -1
+distant_guidao
+  rotate: false
+  xy: 1262, 3411
+  size: 1850, 96
+  orig: 1871, 99
+  offset: 9, 2
+  index: -1
+distant_lieche
+  rotate: false
+  xy: 384, 3479
+  size: 332, 28
+  orig: 335, 31
+  offset: 1, 2
+  index: -1
+distant_lou1
+  rotate: false
+  xy: 2, 1992
+  size: 1020, 483
+  orig: 1106, 508
+  offset: 72, 24
+  index: -1
+distant_lou2
+  rotate: false
+  xy: 1497, 2853
+  size: 984, 322
+  orig: 996, 336
+  offset: 6, 12
+  index: -1
+distant_sky
+  rotate: false
+  xy: 2981, 1788
+  size: 626, 610
+  orig: 629, 614
+  offset: 1, 2
+  index: -1
+distant_technology1
+  rotate: false
+  xy: 3114, 3369
+  size: 139, 138
+  orig: 139, 140
+  offset: 0, 1
+  index: -1
+distant_technology2
+  rotate: false
+  xy: 162, 3491
+  size: 220, 16
+  orig: 221, 16
+  offset: 0, 0
+  index: -1
+distant_technology3
+  rotate: false
+  xy: 2, 3496
+  size: 158, 11
+  orig: 158, 11
+  offset: 0, 0
+  index: -1
+distant_yuanjinglou
+  rotate: false
+  xy: 1092, 2400
+  size: 2951, 226
+  orig: 2954, 228
+  offset: 1, 1
+  index: -1
+distant_yun
+  rotate: false
+  xy: 960, 3177
+  size: 1708, 232
+  orig: 1799, 239
+  offset: 39, 5
+  index: -1
+ground_L
+  rotate: false
+  xy: 2, 538
+  size: 2140, 784
+  orig: 2140, 789
+  offset: 0, 0
+  index: -1
+ground_logo
+  rotate: false
+  xy: 2670, 3042
+  size: 1328, 251
+  orig: 1330, 253
+  offset: 2, 0
+  index: -1
+middle_L_desk
+  rotate: false
+  xy: 3139, 2628
+  size: 830, 412
+  orig: 845, 423
+  offset: 0, 11
+  index: -1
+middle_L_desk_guang
+  rotate: false
+  xy: 718, 3473
+  size: 320, 34
+  orig: 331, 45
+  offset: 6, 5
+  index: -1
+middle_L_wall1
+  rotate: true
+  xy: 2599, 920
+  size: 866, 1144
+  orig: 866, 1144
+  offset: 0, 0
+  index: -1
+middle_L_wall2
+  rotate: false
+  xy: 1607, 1324
+  size: 990, 644
+  orig: 990, 644
+  offset: 0, 0
+  index: -1
+middle_L_wall_guang
+  rotate: false
+  xy: 1040, 3433
+  size: 220, 74
+  orig: 233, 84
+  offset: 6, 4
+  index: -1
+middle_chairL
+  rotate: true
+  xy: 622, 3191
+  size: 280, 336
+  orig: 335, 371
+  offset: 8, 17
+  index: -1
+middle_fangliang
+  rotate: false
+  xy: 2, 2880
+  size: 1493, 295
+  orig: 1523, 433
+  offset: 1, 137
+  index: -1
+middle_jiegou
+  rotate: true
+  xy: 3255, 3364
+  size: 143, 159
+  orig: 143, 163
+  offset: 0, 4
+  index: -1
+midle_fangding
+  rotate: false
+  xy: 1024, 1970
+  size: 1955, 428
+  orig: 1963, 456
+  offset: 0, 28
+  index: -1
+nearby_M_chair_L
+  rotate: true
+  xy: 2, 3229
+  size: 260, 328
+  orig: 365, 373
+  offset: 96, 45
+  index: -1
+nearby_M_desk
+  rotate: false
+  xy: 2, 2477
+  size: 1088, 401
+  orig: 1338, 418
+  offset: 126, 17
+  index: -1
+nearby_technology_board
+  rotate: false
+  xy: 3416, 3295
+  size: 433, 212
+  orig: 440, 230
+  offset: 7, 10
+  index: -1

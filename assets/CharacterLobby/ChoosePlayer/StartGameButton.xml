@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="190,47" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver,4,disabled,5,selectedDisabled" selected="0"/>
+  <displayList>
+    <loader3D id="n5_mwfi" name="n5" xy="-7,-81" size="100,100" touchable="false" url="ui://yepb0cf9mwfi5b" animation="0" skin="" loop="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

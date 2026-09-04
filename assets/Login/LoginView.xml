@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1280,720" overflow="hidden">
   <displayList>
-    <image id="n11_edc1" name="n11" src="edc1h" fileName="Images/bg_2.png" xy="0,0">
-      <relation target="" sidePair="width-width,height-height"/>
-    </image>
+    <loader3D id="n12_mwfi" name="n1" xy="-736,-725" size="2435,1492" url="ui://m7cln76gmwfi5e" animation="animation" skin="" loop="true"/>
+    <loader3D id="n15_mwfi" name="n4" xy="-798,-178" size="4420,1716" scale="0.7,0.7" url="ui://m7cln76gmwfi5n" animation="animation" skin="" loop="true"/>
+    <loader3D id="n13_mwfi" name="n2" xy="-670,-37" size="6028,2440" scale="0.4,0.4" url="ui://m7cln76gmwfi5h" animation="animation" skin="" loop="true"/>
+    <loader3D id="n14_mwfi" name="n3" xy="-48,77" size="2330,1630" scale="0.4,0.4" url="ui://m7cln76gmwfi5k" animation="animation" skin="" loop="true"/>
   </displayList>
 </component>

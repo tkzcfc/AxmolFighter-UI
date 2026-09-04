@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <controller name="c_star" pages="0,,1,,2,,3,,4,,5," selected="0"/>
+  <displayList>
+    <loader3D id="n30_mwfi" name="loaderAvatar" xy="485,568" size="100,100" animation="" skin="" loop="true"/>
+    <component id="n0_mwfi" name="roleTypeSelector" src="mwfi4n" fileName="CreatePlayer/RoleTypeSelector.xml" xy="5,94">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n1_mwfi" name="createButton" src="mwfi4s" fileName="CreatePlayer/CreateButton.xml" xy="928,632">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n2_mwfi" name="n2" src="mwfi3x" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_zi1.png" xy="802,511"/>
+    <image id="n3_mwfi" name="n3" src="mwfi3z" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_2.png" xy="802,575"/>
+    <component id="n4_mwfi" name="professionButton0" src="mwfi4u" fileName="CreatePlayer/ProfessionButton.xml" xy="920,506"/>
+    <component id="n5_mwfi" name="professionButton1" src="mwfi4u" fileName="CreatePlayer/ProfessionButton.xml" xy="920,567"/>
+    <component id="n6_mwfi" name="professionButton2" src="mwfi4u" fileName="CreatePlayer/ProfessionButton.xml" xy="1076,567"/>
+    <component id="n12_mwfi" name="n12" src="mwfi4v" fileName="CreatePlayer/VedioPlayer.xml" xy="841,298"/>
+    <text id="n13_mwfi" name="textDesc" xy="804,115" size="437,109" fontSize="22" color="#ffffff" autoSize="none" text=""/>
+    <loader id="n14_mwfi" name="loaderName" xy="849,55" size="362,49" url="ui://yepb0cf9mwfi3g" autoSize="true"/>
+    <text id="n27_mwfi" name="n27" xy="802,263" size="85,26" group="n28_mwfi" fontSize="18" color="#feb763" text="操作难度:"/>
+    <image id="n17_mwfi" name="n17" src="rrza7u" fileName="Images/Img1/image_nfy_common_ui_tongyong_wz_xingxing_hui.png" pkg="xsbz3guo" xy="890,263" group="n28_mwfi"/>
+    <image id="n18_mwfi" name="n18" src="rrza7t" fileName="Images/Img1/image_nfy_common_ui_tongyong_wz_xingxing.png" pkg="xsbz3guo" xy="890,263" group="n28_mwfi">
+      <gearDisplay controller="c_star" pages="1,2,3,4,5"/>
+    </image>
+    <image id="n19_mwfi" name="n19" src="rrza7u" fileName="Images/Img1/image_nfy_common_ui_tongyong_wz_xingxing_hui.png" pkg="xsbz3guo" xy="923,263" group="n28_mwfi"/>
+    <image id="n20_mwfi" name="n20" src="rrza7t" fileName="Images/Img1/image_nfy_common_ui_tongyong_wz_xingxing.png" pkg="xsbz3guo" xy="923,263" group="n28_mwfi">
+      <gearDisplay controller="c_star" pages="2,3,4,5"/>
+    </image>
+    <image id="n21_mwfi" name="n21" src="rrza7u" fileName="Images/Img1/image_nfy_common_ui_tongyong_wz_xingxing_hui.png" pkg="xsbz3guo" xy="956,263" group="n28_mwfi"/>
+    <image id="n22_mwfi" name="n22" src="rrza7t" fileName="Images/Img1/image_nfy_common_ui_tongyong_wz_xingxing.png" pkg="xsbz3guo" xy="956,263" group="n28_mwfi">
+      <gearDisplay controller="c_star" pages="3,4,5"/>
+    </image>
+    <image id="n23_mwfi" name="n23" src="rrza7u" fileName="Images/Img1/image_nfy_common_ui_tongyong_wz_xingxing_hui.png" pkg="xsbz3guo" xy="989,263" group="n28_mwfi"/>
+    <image id="n24_mwfi" name="n24" src="rrza7t" fileName="Images/Img1/image_nfy_common_ui_tongyong_wz_xingxing.png" pkg="xsbz3guo" xy="989,263" group="n28_mwfi">
+      <gearDisplay controller="c_star" pages="4,5"/>
+    </image>
+    <image id="n25_mwfi" name="n25" src="rrza7u" fileName="Images/Img1/image_nfy_common_ui_tongyong_wz_xingxing_hui.png" pkg="xsbz3guo" xy="1022,263" group="n28_mwfi"/>
+    <image id="n26_mwfi" name="n26" src="rrza7t" fileName="Images/Img1/image_nfy_common_ui_tongyong_wz_xingxing.png" pkg="xsbz3guo" xy="1022,263" group="n28_mwfi">
+      <gearDisplay controller="c_star" pages="5"/>
+    </image>
+    <group id="n28_mwfi" name="n28" xy="802,263" size="244,26"/>
+    <loader id="n29_mwfi" name="loaderAttr" xy="804,232" size="168,20" url="ui://yepb0cf9mwfi21" autoSize="true"/>
+    <loader3D id="n31_mwfi" name="loaderVedio" xy="852,327" size="302,146" animation="" skin="" loop="true"/>
+  </displayList>
+  <transition name="t0"/>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,150" extention="Button" hitTest="n0_mwfi">
+  <controller name="button" pages="2,up,3,down,4,over,5,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_mwfi" name="n0" src="mwfi3r" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_zhujiemian_juese_kuang.png" xy="2,2"/>
+    <image id="n1_mwfi" name="n1" src="mwfi3t" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_zhujiemian_juese_kuang_liang.png" xy="0,0">
+      <gearDisplay controller="button" pages="3,5"/>
+    </image>
+    <loader id="n3_mwfi" name="icon" xy="0,0" size="150,150" url="ui://yepb0cf9mwfi37" autoSize="true"/>
+    <image id="n2_mwfi" name="imgIsCreate" src="mwfi3s" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_zhujiemian_juese_kuang_fengtiao.png" xy="8,63" visible="false"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>
