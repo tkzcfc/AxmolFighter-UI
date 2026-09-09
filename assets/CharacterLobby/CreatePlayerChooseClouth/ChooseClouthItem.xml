@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="170,104" extention="Button">
+  <controller name="button" pages="2,up,3,down,4,over,5,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n2_r5dx" name="icon" xy="0,0" size="170,104" url="ui://yepb0cf9mwfi2o" autoSize="true"/>
+    <text id="n3_zaym" name="title" xy="23,43" size="20,49" fontSize="36" color="#ff0000" text="1"/>
+  </displayList>
+  <Button/>
+</component>

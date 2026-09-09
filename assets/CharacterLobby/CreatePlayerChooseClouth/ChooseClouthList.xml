@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="340,104" overflow="hidden">
+  <displayList>
+    <image id="n2_r5dx" name="n2" src="mwfi47" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_huanzhuang_kuang_xuanzhong.png" xy="85,0"/>
+    <image id="n3_r5dx" name="n3" src="mwfi46" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_huanzhuang_kuang.png" xy="0,51" pivot="0.5,0.5" anchor="true"/>
+    <image id="n4_r5dx" name="n4" src="mwfi46" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_huanzhuang_kuang.png" xy="340,52" pivot="0.5,0.5" anchor="true"/>
+    <list id="n1_r5dx" name="list" xy="-85,0" size="510,104" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="2562" defaultItem="ui://yepb0cf9r5dx5h" autoClearItems="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,104 @@
+
+ui_chuangjianjuese_qiehuanrenwuguang.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiehuanguang1
+  rotate: true
+  xy: 353, 8
+  size: 151, 290
+  orig: 550, 400
+  offset: 206, 55
+  index: -1
+qiehuanguang10
+  rotate: true
+  xy: 2, 2
+  size: 157, 349
+  orig: 550, 400
+  offset: 214, 51
+  index: -1
+qiehuanguang11
+  rotate: true
+  xy: 645, 14
+  size: 145, 349
+  orig: 550, 400
+  offset: 221, 51
+  index: -1
+qiehuanguang12
+  rotate: false
+  xy: 913, 161
+  size: 141, 349
+  orig: 550, 400
+  offset: 221, 51
+  index: -1
+qiehuanguang13
+  rotate: true
+  xy: 996, 23
+  size: 136, 349
+  orig: 550, 400
+  offset: 221, 51
+  index: -1
+qiehuanguang14
+  rotate: false
+  xy: 1056, 187
+  size: 136, 323
+  orig: 550, 400
+  offset: 221, 51
+  index: -1
+qiehuanguang2
+  rotate: false
+  xy: 1383, 218
+  size: 161, 292
+  orig: 550, 400
+  offset: 196, 52
+  index: -1
+qiehuanguang3
+  rotate: true
+  xy: 1347, 39
+  size: 177, 292
+  orig: 550, 400
+  offset: 191, 52
+  index: -1
+qiehuanguang4
+  rotate: false
+  xy: 1194, 218
+  size: 187, 292
+  orig: 550, 400
+  offset: 189, 52
+  index: -1
+qiehuanguang5
+  rotate: false
+  xy: 2, 161
+  size: 190, 349
+  orig: 550, 400
+  offset: 188, 51
+  index: -1
+qiehuanguang6
+  rotate: false
+  xy: 194, 161
+  size: 187, 349
+  orig: 550, 400
+  offset: 192, 51
+  index: -1
+qiehuanguang7
+  rotate: false
+  xy: 383, 161
+  size: 183, 349
+  orig: 550, 400
+  offset: 197, 51
+  index: -1
+qiehuanguang8
+  rotate: false
+  xy: 568, 161
+  size: 175, 349
+  orig: 550, 400
+  offset: 202, 51
+  index: -1
+qiehuanguang9
+  rotate: false
+  xy: 745, 161
+  size: 166, 349
+  orig: 550, 400
+  offset: 208, 51
+  index: -1
