@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="i3yu46g1">
+  <resources>
+    <component id="jtkp0" name="FashionMainPanel.xml" path="/FashionMainPanel/" exported="true"/>
+    <image id="jtkp1" name="ui_shizhuang_beijing.jpg" path="/Images/"/>
+    <image id="jtkp2" name="image_nfy_fashion_ui_shizhuang_biaoti_fushi.png" path="/Images/"/>
+    <image id="jtkp3" name="image_nfy_fashion_ui_shizhuang_biaoti_guanghuan.png" path="/Images/"/>
+    <image id="jtkp4" name="image_nfy_fashion_ui_shizhuang_biaoti_zhuangshi.png" path="/Images/"/>
+    <image id="jtkp5" name="image_nfy_fashion_ui_shizhuang_an_shuxing5.png" path="/Images/"/>
+    <component id="jtkp6" name="FashionItem.xml" path="/FashionMainPanel/"/>
+    <image id="jtkp7" name="image_nfy_player_ui_kong_chibang.png" path="/Images/"/>
+    <image id="jtkp8" name="image_nfy_player_ui_kong_lian.png" path="/Images/"/>
+    <image id="jtkp9" name="image_nfy_player_ui_kong_lizi.png" path="/Images/"/>
+    <image id="jtkpa" name="image_nfy_player_ui_kong_maozi.png" path="/Images/"/>
+    <image id="jtkpb" name="image_nfy_player_ui_kong_toushi.png" path="/Images/"/>
+    <image id="jtkpc" name="image_nfy_player_ui_kong_wuqi.png" path="/Images/"/>
+    <image id="jtkpd" name="image_nfy_player_ui_kong_yifu.png" path="/Images/"/>
+    <image id="jtkpe" name="image_nfy_player_ui_kong_zhinao.png" path="/Images/"/>
+    <component id="jtkpf" name="FashionMainPanelContainer.xml" path="/FashionMainPanel/"/>
+    <image id="jtkpg" name="image_nfy_player_ui_zhuangbei_zhujiemian_zhuangbeikuang_kong_guanghuan.png" path="/Images/"/>
+    <component id="jtkph" name="BtnToWalk.xml" path="/FashionMainPanel/"/>
+    <misc id="jtkpj" name="ui_tx_jingjichangzidongzhong.atlas" path="/Animation/"/>
+    <image id="jtkpk" name="ui_tx_jingjichangzidongzhong.png" path="/Animation/"/>
+    <spine id="jtkpi" name="ui_tx_jingjichangzidongzhong.skel" path="/Animation/" width="81" height="88" require="jtkpj,jtkpk" atlasNames="ui_tx_jingjichangzidongzhong" anchor="40,44"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

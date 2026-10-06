@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="300,423" overflow="hidden" extention="Button">
-  <controller name="button" pages="2,up,3,down,4,over,5,selectedOver" selected="0"/>
+  <controller name="button" pages="2,up,3,down,4,over,5,selectedOver" selected="3"/>
   <displayList>
+    <image id="n20_mwfi" name="n20" src="mwfi58" fileName="Img_CeatePlayer/image_fy_login_yinying.png" xy="90,373" size="119,50" aspect="true"/>
+    <text id="n16_h8e3" name="nameText" xy="106,183" size="88,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" singleLine="true" autoClearText="true" text="Lv1 名字"/>
     <loader3D id="n23_mwfi" name="n23" xy="52,298" size="100,100" url="ui://yepb0cf9mwfi5b" animation="6" skin="" loop="true">
       <gearDisplay controller="button" pages="3,5"/>
     </loader3D>
-    <image id="n20_mwfi" name="n20" src="mwfi58" fileName="Img_CeatePlayer/image_fy_login_yinying.png" xy="90,373" size="119,50" aspect="true"/>
-    <image id="n15_h8e3" name="n15" src="mwfi57" fileName="Img_CeatePlayer/image_fy_login_ui_zi_juesexuanze_yixuanze.png" xy="88,288" aspect="true">
-      <gearDisplay controller="button" pages="3,5"/>
-    </image>
-    <text id="n16_h8e3" name="nameText" xy="106,183" size="88,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" singleLine="true" autoClearText="true" text="Lv1 名字"/>
     <loader3D id="n18_h8e3" name="avatarLoader" xy="100,235" size="100,157" animation="" skin="" loop="true"/>
     <loader3D id="n22_mwfi" name="n22" xy="52,244" size="100,100" url="ui://yepb0cf9mwfi5b" animation="4" skin="" loop="true">
       <gearDisplay controller="button" pages="3,5"/>
     </loader3D>
+    <image id="n15_h8e3" name="n15" src="mwfi57" fileName="Img_CeatePlayer/image_fy_login_ui_zi_juesexuanze_yixuanze.png" xy="88,288" aspect="true">
+      <gearDisplay controller="button" pages="3,5"/>
+    </image>
   </displayList>
   <Button mode="Radio" sound="ui://xsbz3guorrzaa4"/>
 </component>

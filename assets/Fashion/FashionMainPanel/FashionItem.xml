@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,92" extention="Button">
+  <displayList>
+    <loader id="n0_jtkp" name="loaderEmptyBg" xy="0,0" size="90,92" touchable="false" url="ui://i3yu46g1jtkp7" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n1_jtkp" name="loaderFashionBackdrop" xy="0,0" size="90,92" visible="false" touchable="false" url="ui://37kbt1d9rrza5k" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n2_jtkp" name="icon" xy="0,0" size="90,92" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button/>
+  <customProperty target="loaderEmptyBg" propertyId="1" label="空背景"/>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <loader id="n0_jtkp" name="n0" xy="0,0" size="1280,720" url="ui://i3yu46g1jtkp1" align="center" vAlign="middle" fill="scaleMatchHeight">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n5_jtkp" name="n5" src="jtkpf" fileName="FashionMainPanel/FashionMainPanelContainer.xml" xy="0,0"/>
+    <component id="n7_jtkp" name="btnBack" src="mwfiav" fileName="Widgets/ButtonBack.xml" pkg="xsbz3guo" xy="0,0"/>
+  </displayList>
+</component>

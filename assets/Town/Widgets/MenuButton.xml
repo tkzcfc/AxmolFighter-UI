@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="92,78" extention="Button">
+  <controller name="button" pages="2,up,3,down,4,over,5,selectedOver,6,disabled,7,selectedDisabled" selected="0"/>
+  <displayList>
+    <image id="n8_ilnm" name="n8" src="jtkp3s" fileName="Images/Menu/ui_zjm_caidan_baisedi_xiao.png" xy="0,0"/>
+    <loader id="n1_jtkp" name="n_press" xy="11,0" size="70,78" url="ui://iejdjmxgjtkp3b">
+      <gearDisplay controller="button" pages="3,5"/>
+    </loader>
+    <loader id="n2_jtkp" name="n_disable" xy="11,0" size="70,78" url="ui://iejdjmxgjtkp39">
+      <gearDisplay controller="button" pages="6,7"/>
+    </loader>
+    <loader id="n3_jtkp" name="n_normal" xy="11,0" size="70,78" url="ui://iejdjmxgjtkp3a">
+      <gearDisplay controller="button" pages="2,4"/>
+    </loader>
+  </displayList>
+  <Button/>
+  <customProperty target="n_press" propertyId="1" label="按下图片"/>
+  <customProperty target="n_normal" propertyId="1" label="普通图片"/>
+  <customProperty target="n_disable" propertyId="1" label="禁用图片"/>
+</component>

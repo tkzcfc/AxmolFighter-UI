@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="422,640">
+  <displayList>
+    <image id="n11_ilnm" name="n11" src="jtkp16" fileName="Images/Menu/ui_zjm_caidan_diban.png" xy="0,0"/>
+    <component id="n2_jtkp" name="n2" src="jtkp7" fileName="CityMainLayer/Component1.xml" xy="31,89"/>
+    <component id="n3_jtkp" name="n3" src="jtkp7" fileName="CityMainLayer/Component1.xml" xy="125,89">
+      <property target="n_press" propertyId="1" value="ui://iejdjmxgjtkp3e"/>
+      <property target="n_normal" propertyId="1" value="ui://iejdjmxgjtkp3d"/>
+      <property target="n_disable" propertyId="1" value="ui://iejdjmxgjtkp3c"/>
+    </component>
+    <component id="n4_jtkp" name="n4" src="jtkp7" fileName="CityMainLayer/Component1.xml" xy="219,89">
+      <property target="n_press" propertyId="1" value="ui://iejdjmxgjtkp3h"/>
+      <property target="n_normal" propertyId="1" value="ui://iejdjmxgjtkp3g"/>
+      <property target="n_disable" propertyId="1" value="ui://iejdjmxgjtkp3f"/>
+    </component>
+    <component id="n5_jtkp" name="n5" src="jtkp7" fileName="CityMainLayer/Component1.xml" xy="313,89">
+      <property target="n_press" propertyId="1" value="ui://iejdjmxgjtkp1z"/>
+      <property target="n_normal" propertyId="1" value="ui://iejdjmxgjtkp1y"/>
+      <property target="n_disable" propertyId="1" value="ui://iejdjmxgjtkp1x"/>
+    </component>
+    <component id="n6_jtkp" name="n6" src="jtkp7" fileName="CityMainLayer/Component1.xml" xy="31,169">
+      <property target="n_press" propertyId="1" value="ui://iejdjmxgjtkp2n"/>
+      <property target="n_normal" propertyId="1" value="ui://iejdjmxgjtkp2m"/>
+      <property target="n_disable" propertyId="1" value="ui://iejdjmxgjtkp2l"/>
+    </component>
+    <image id="n13_ilnm" name="n13" src="jtkp17" fileName="Images/Menu/ui_zjm_caidan_touxiangdi.png" xy="31,21"/>
+    <loader id="n16_ilnm" name="loaderHeadIcon" xy="83,25" size="186,88" scale="0.55,0.55" url="ui://37kbt1d9ilnmj7" autoSize="true"/>
+    <text id="n17_ilnm" name="n17" xy="189,24" size="144,29" font="ui://xsbz3guomwfiaz" fontSize="20" color="#ffffff" autoClearText="true" text="我是名称几个字"/>
+    <text id="n18_ilnm" name="n18" xy="189,49" size="33,29" font="ui://xsbz3guorrza1o" fontSize="20" color="#ffffff" text="1级"/>
+  </displayList>
+</component>

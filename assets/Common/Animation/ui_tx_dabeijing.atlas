@@ -1,0 +1,41 @@
+
+ui_tx_dabeijing.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuai_1
+  rotate: false
+  xy: 2, 2
+  size: 230, 245
+  orig: 230, 245
+  offset: 0, 0
+  index: -1
+kuai_2
+  rotate: true
+  xy: 406, 51
+  size: 196, 159
+  orig: 205, 167
+  offset: 3, 6
+  index: -1
+kuai_3
+  rotate: false
+  xy: 234, 34
+  size: 170, 213
+  orig: 185, 230
+  offset: 9, 12
+  index: -1
+kuai_4
+  rotate: false
+  xy: 735, 65
+  size: 152, 182
+  orig: 178, 204
+  offset: 9, 14
+  index: -1
+kuai_5
+  rotate: true
+  xy: 567, 71
+  size: 176, 166
+  orig: 196, 182
+  offset: 8, 8
+  index: -1

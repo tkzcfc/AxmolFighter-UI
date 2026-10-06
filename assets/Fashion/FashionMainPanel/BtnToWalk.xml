@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="76,82" extention="Button">
+  <controller name="button" pages="2,up,3,down,4,over,5,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_jtkp" name="n0" src="jtkp5" fileName="Images/image_nfy_fashion_ui_shizhuang_an_shuxing5.png" xy="0,0"/>
+    <loader3D id="n1_jtkp" name="n1" xy="-4,-6" size="81,88" url="ui://i3yu46g1jtkpi" animation="zidong" skin="" loop="true">
+      <gearDisplay controller="button" pages="3,5"/>
+    </loader3D>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

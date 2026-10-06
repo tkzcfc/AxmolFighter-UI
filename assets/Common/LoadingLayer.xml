@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <loader id="n3_sz4e" name="n3" xy="0,0" size="1280,720" url="ui://xsbz3guojtkpb9" align="center" vAlign="middle" fill="scaleMatchHeight">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader3D id="n6_sz4e" name="n6" xy="448,425" size="100,100" url="ui://xsbz3guosz4e9" animation="animation" skin="" loop="true"/>
+    <component id="n0_pi8u" name="progressBar" src="pi8u1" fileName="Widgets/LoadingProgressBar.xml" xy="70,644" size="1140,4">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <ProgressBar value="18" max="100"/>
+    </component>
+    <loader3D id="n7_sz4e" name="n7" xy="1149,544" size="121,80" url="ui://xsbz3guosz4e6" animation="daloading" skin="" loop="true">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </loader3D>
+    <loader id="n9_jtkp" name="n9" xy="70,422" size="437,159" url="ui://xsbz3guojtkpb2" autoSize="true">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </loader>
+  </displayList>
+</component>

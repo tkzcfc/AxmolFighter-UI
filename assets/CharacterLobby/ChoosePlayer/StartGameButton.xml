@@ -3,6 +3,12 @@
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver,4,disabled,5,selectedDisabled" selected="0"/>
   <displayList>
     <loader3D id="n5_mwfi" name="n5" xy="-7,-81" size="100,100" touchable="false" url="ui://yepb0cf9mwfi5b" animation="0" skin="" loop="true"/>
+    <loader3D id="n6_sz4e" name="n6" xy="-7,-81" size="100,100" visible="false" touchable="false" url="ui://yepb0cf9mwfi5b" animation="0" skin="" loop="true"/>
   </displayList>
   <Button downEffect="scale" downEffectValue=".95"/>
+  <transition name="t_click">
+    <item time="0" type="Animation" target="n6_sz4e" value="0,p,2,-"/>
+    <item time="0" type="Visible" target="n6_sz4e" value="true"/>
+    <item time="12" type="Visible" target="n6_sz4e" value="false"/>
+  </transition>
 </component>

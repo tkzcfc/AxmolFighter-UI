@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" opaque="false">
+  <displayList>
+    <component id="n2_ilnm" name="maskLayer" src="ilnm43" fileName="CityMainLayer/TouchLayer.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n4_ilnm" name="mainMenuButton" src="ilnm44" fileName="CityMainLayer/MainMenuButton.xml" xy="1145,570"/>
+  </displayList>
+</component>

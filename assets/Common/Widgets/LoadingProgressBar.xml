@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,4" extention="ProgressBar">
+  <displayList>
+    <graph id="n0_pi8u" name="n0" xy="0,0" size="50,4" type="rect" lineSize="0" lineColor="#ffa0a0a0" fillColor="#ff000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n1_pi8u" name="bar" xy="0,0" size="50,4" type="rect" lineSize="0" fillColor="#ffcccccc"/>
+    <text id="n4_sz4e" name="title" xy="5,6" size="40,26" font="ui://xsbz3guorrza1n" fontSize="18" color="#ffffff" text="35%">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <image id="n5_sz4e" name="n5" src="sz4e5" fileName="Images/ui_load_zi_0.png" xy="-62,-25">
+      <relation target="" sidePair="center-center"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+</component>

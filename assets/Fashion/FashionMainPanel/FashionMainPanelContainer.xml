@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <component id="n0_jtkp" name="fasionItem_Wing" src="jtkp6" fileName="FashionMainPanel/FashionItem.xml" xy="107,218"/>
+    <image id="n1_jtkp" name="n1" src="jtkp2" fileName="Images/image_nfy_fashion_ui_shizhuang_biaoti_fushi.png" xy="107,174"/>
+    <image id="n2_jtkp" name="n2" src="jtkp3" fileName="Images/image_nfy_fashion_ui_shizhuang_biaoti_guanghuan.png" xy="107,349"/>
+    <image id="n3_jtkp" name="n3" src="jtkp4" fileName="Images/image_nfy_fashion_ui_shizhuang_biaoti_zhuangshi.png" xy="906,174"/>
+    <component id="n4_jtkp" name="fasionItem_Clothes" src="jtkp6" fileName="FashionMainPanel/FashionItem.xml" xy="203,218">
+      <property target="loaderEmptyBg" propertyId="1" value="ui://i3yu46g1jtkpd"/>
+    </component>
+    <component id="n5_jtkp" name="fasionItem_Hat" src="jtkp6" fileName="FashionMainPanel/FashionItem.xml" xy="906,218">
+      <property target="loaderEmptyBg" propertyId="1" value="ui://i3yu46g1jtkpa"/>
+    </component>
+    <component id="n6_jtkp" name="fasionItem_Hair" src="jtkp6" fileName="FashionMainPanel/FashionItem.xml" xy="1002,218">
+      <property target="loaderEmptyBg" propertyId="1" value="ui://i3yu46g1jtkpb"/>
+    </component>
+    <component id="n7_jtkp" name="fasionItem_Face" src="jtkp6" fileName="FashionMainPanel/FashionItem.xml" xy="1098,218">
+      <property target="loaderEmptyBg" propertyId="1" value="ui://i3yu46g1jtkp8"/>
+    </component>
+    <component id="n8_jtkp" name="fasionItem_kHalo" src="jtkp6" fileName="FashionMainPanel/FashionItem.xml" xy="107,390">
+      <property target="loaderEmptyBg" propertyId="1" value="ui://i3yu46g1jtkpg"/>
+    </component>
+    <component id="n9_jtkp" name="fasionItem_Phantom" src="jtkp6" fileName="FashionMainPanel/FashionItem.xml" xy="203,390">
+      <property target="loaderEmptyBg" propertyId="1" value="ui://i3yu46g1jtkp9"/>
+    </component>
+    <loader3D id="n10_jtkp" name="n10" xy="590,472" size="100,100" animation="" skin="" loop="true"/>
+    <component id="n11_jtkp" name="btnToWalk" src="jtkph" fileName="FashionMainPanel/BtnToWalk.xml" xy="107,531"/>
+  </displayList>
+</component>

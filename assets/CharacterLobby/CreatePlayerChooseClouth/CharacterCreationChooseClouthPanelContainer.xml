@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1280,720">
-  <controller name="c1" pages="0,,1,,2,,3," selected="3"/>
+  <controller name="c1" pages="0,,1,,2,,3," selected="0"/>
   <displayList>
     <image id="n3_r5dx" name="n3" src="mwfi41" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_huanzhuang_beijing.png" xy="156,94"/>
     <image id="n6_r5dx" name="n6" src="mwfi43" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_huanzhuang_juesebeijing.png" xy="253,156"/>
-    <loader3D id="n15_r5dx" name="n15" xy="119,162" size="532,387" visible="false" touchable="false" url="ui://yepb0cf9r5dx5j" animation="" skin=""/>
-    <loader id="n4_r5dx" name="loaderName" xy="187,137" size="63,198" url="ui://yepb0cf9mwfi3n" autoSize="true">
+    <loader3D id="n15_r5dx" name="n15" xy="119,138" size="532,387" visible="false" touchable="false" url="ui://yepb0cf9r5dx5j" animation="" skin=""/>
+    <loader id="n4_r5dx" name="loaderName" xy="187,137" size="63,198" url="ui://yepb0cf9mwfi1w" autoSize="true">
       <gearIcon controller="c1" pages="0,1,2" values="ui://yepb0cf9mwfi1w|ui://yepb0cf9mwfi1x|ui://yepb0cf9mwfi1y" default="ui://yepb0cf9mwfi3n"/>
     </loader>
     <image id="n5_r5dx" name="n5" src="mwfi4c" fileName="Img_CeatePlayer/image_nfy_createplayer_ui_juesechuangjian_huanzhuang_wenzi_xuanzefaxing.png" xy="558,139"/>
@@ -17,7 +17,6 @@
     <component id="n12_r5dx" name="choiceHair" src="r5dx5i" fileName="CreatePlayerChooseClouth/ChooseClouthList.xml" xy="800,230" pivot="0.5,0.5" anchor="true"/>
     <component id="n13_r5dx" name="choiceClothing" src="r5dx5i" fileName="CreatePlayerChooseClouth/ChooseClouthList.xml" xy="800,356" pivot="0.5,0.5" anchor="true"/>
     <loader3D id="n14_r5dx" name="loaderAvatar" xy="250,196" size="286,257" animation="" skin="" loop="true"/>
-    <text id="n16_zaym" name="textCurSelect" xy="596,581" size="40,32" fontSize="22" color="#ffffff" autoSize="none" text=""/>
   </displayList>
   <transition name="t0">
     <item time="0" type="Animation" target="n15_r5dx" value="0,p,animation,-"/>
