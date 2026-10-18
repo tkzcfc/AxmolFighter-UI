@@ -4,7 +4,9 @@
     <loader id="n3_sz4e" name="n3" xy="0,0" size="1280,720" url="ui://xsbz3guojtkpb9" align="center" vAlign="middle" fill="scaleMatchHeight">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
-    <loader3D id="n6_sz4e" name="n6" xy="448,425" size="100,100" url="ui://xsbz3guosz4e9" animation="animation" skin="" loop="true"/>
+    <loader3D id="n6_sz4e" name="n6" xy="448,425" size="100,100" url="ui://xsbz3guosz4e9" animation="animation" skin="" loop="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader3D>
     <component id="n0_pi8u" name="progressBar" src="pi8u1" fileName="Widgets/LoadingProgressBar.xml" xy="70,644" size="1140,4">
       <relation target="" sidePair="center-center,bottom-bottom"/>
       <ProgressBar value="18" max="100"/>

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1280,720" overflow="hidden">
+<component size="1136,640">
   <displayList>
-    <loader3D id="n12_mwfi" name="n1" xy="-736,-725" size="2435,1492" url="ui://m7cln76gmwfi5e" animation="animation" skin="" loop="true"/>
-    <loader3D id="n15_mwfi" name="n4" xy="-798,-178" size="4420,1716" scale="0.7,0.7" url="ui://m7cln76gmwfi5n" animation="animation" skin="" loop="true"/>
-    <loader3D id="n13_mwfi" name="n2" xy="-670,-37" size="6028,2440" scale="0.4,0.4" url="ui://m7cln76gmwfi5h" animation="animation" skin="" loop="true"/>
-    <loader3D id="n14_mwfi" name="n3" xy="-48,77" size="2330,1630" scale="0.4,0.4" url="ui://m7cln76gmwfi5k" animation="animation" skin="" loop="true"/>
+    <loader id="n0_i3uk" name="n0" xy="0,0" size="1136,640" url="ui://m7cln76gedc13" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
   </displayList>
 </component>
