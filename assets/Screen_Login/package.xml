@@ -13,9 +13,9 @@
     <image id="edc116" name="primary_button_default.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
     <image id="edc117" name="primary_button_disabled.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
     <component id="edc118" name="InputBoxPassWord.xml" path="/Widgets/"/>
-    <component id="edc119" name="LoginPanel.xml" path="/" exported="true"/>
+    <component id="edc119" name="LoginDialog.xml" path="/" exported="true"/>
     <component id="edc11a" name="ButtonNoBg.xml" path="/Widgets/"/>
-    <component id="edc11c" name="RegisterPanel.xml" path="/" exported="true"/>
+    <component id="edc11c" name="RegisterDialog.xml" path="/" exported="true"/>
     <component id="edc11d" name="ButtonBack.xml" path="/Widgets/"/>
     <image id="mwfi5g" name="ui_fengmian_beijing.png" path="/Animation/" exported="true"/>
     <spine id="mwfi5e" name="ui_fengmian_beijing.skel" path="/Animation/" exported="true" width="2435" height="1492" require="mwfi5f,mwfi5g" atlasNames="ui_fengmian_beijing" anchor="1404,1971"/>

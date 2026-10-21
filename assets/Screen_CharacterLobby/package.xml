@@ -177,6 +177,7 @@
     <spine id="r5dx5j" name="ui_chuangjianjuese_qiehuanrenwuguang.skel" path="/Animation/" width="532" height="387" require="r5dx5k,r5dx5l" atlasNames="ui_chuangjianjuese_qiehuanrenwuguang" anchor="266,193"/>
     <image id="r5dx5m" name="ui_juesechuangjian_tou_02_5.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
     <image id="r5dx5n" name="ui_juesechuangjian_tou_02_4.png" path="/Img_CeatePlayer_Alone/" exported="true"/>
+    <component id="p8jm5o" name="CharacterLobbyScreenContainer.xml" path="/ChoosePlayer/"/>
   </resources>
   <publish name=""/>
 </packageDescription>
