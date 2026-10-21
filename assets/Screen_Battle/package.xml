@@ -2,6 +2,41 @@
 <packageDescription id="mipzrni9">
   <resources>
     <component id="pi8u2" name="GameScreen.xml" path="/" exported="true"/>
+    <component id="k3hpa" name="BattleHudPanel.xml" path="/" exported="true"/>
+    <component id="m8ctr" name="BattleHudPanelContainer.xml" path="/" exported="true"/>
+    <component id="p5sts" name="PlayerStatus.xml" path="/" exported="false"/>
+    <component id="u2pse" name="PauseButton.xml" path="/" exported="false"/>
+    <component id="s9pad" name="SkillPad.xml" path="/" exported="false"/>
+    <component id="j4stk" name="Joystick.xml" path="/" exported="false"/>
+    <component id="t6bar" name="TargetBar.xml" path="/" exported="false"/>
+    <component id="b7bos" name="BossBar.xml" path="/" exported="false"/>
+    <component id="f1buf" name="BuffItem.xml" path="/" exported="true"/>
+    <component id="q0skl" name="SkillButton.xml" path="/" exported="true"/>
+    <component id="h2hpb" name="HpBar.xml" path="/" exported="false"/>
+    <component id="m3mpb" name="MpBar.xml" path="/" exported="false"/>
+    <component id="t1hpb" name="TargetHpBar.xml" path="/" exported="false"/>
+    <image id="a1thb" name="ui_hud_yaogan.png" path="/Images/" exported="true"/>
+    <image id="a2pau" name="ui_xin_yingdi_bn_zanting.png" path="/Images/" exported="true"/>
+    <image id="a3plg" name="ui_xin_yingdi_bn_zanting_liang.png" path="/Images/" exported="true"/>
+    <image id="a4frm" name="ui_xin_hud_touxiangkuang_zhujue.png" path="/Images/" exported="true"/>
+    <image id="a5por" name="ui_hud_xiaotouxiang_1.png" path="/Images/" exported="true"/>
+    <image id="a6hpb" name="ui_xin_hud_touxiangkuang_zhujue_xuetiao_01.png" path="/Images/" exported="true"/>
+    <image id="a7hpf" name="ui_xin_hud_touxiangkuang_zhujue_xuetiao_02.png" path="/Images/" exported="true"/>
+    <image id="a8mpf" name="ui_zd_renwuxue_lantiao.png" path="/Images/" exported="true"/>
+    <image id="a9bfs" name="ui_xin_hud_touxiangkuang_boss.png" path="/Images/" exported="true"/>
+    <image id="b0bpr" name="ui_boss_touxiang_1.png" path="/Images/" exported="true"/>
+    <image id="b1bbg" name="ui_xin_hud_touxiangkuang_boss_xuetiao_bg_01.png" path="/Images/" exported="true"/>
+    <image id="b4atk" name="ui_xin_hud_jineng_pugong.png" path="/Images/" exported="true"/>
+    <image id="d0tdi" name="ui_hud_toudingxuetiao_di.png" path="/Images/" exported="true"/>
+    <image id="d1tfl" name="ui_hud_toudingxuetiao.png" path="/Images/" exported="true"/>
+    <image id="e0kuz" name="ui_zd_jineng_an_kuang.png" path="/Images/" exported="true"/>
+    <image id="e1cdq" name="ui_zd_jineng_an_cdquan.png" path="/Images/" exported="true"/>
+    <image id="e2abg" name="ui_xin_hud_jineng_bg.png" path="/Images/" exported="true"/>
+    <image id="e3dge" name="ui_hud_jineng_shanbi.png" path="/Images/" exported="true"/>
+    <image id="e4dgc" name="ui_hud_jineng_shanbi_cd.png" path="/Images/" exported="true"/>
+    <image id="e5jbg" name="ui_xin_hud_yaogan_bg_01.png" path="/Images/" exported="true"/>
+    <image id="e6jth" name="ui_jineng_heidiban.png" path="/Images/" exported="true"/>
+    <image id="e7dgh" name="ui_hud_jineng_shanbi_hei.png" path="/Images/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

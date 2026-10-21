@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="36,36" opaque="false">
+  <displayList>
+    <loader id="n0" name="icon" xy="0,0" size="36,36" align="center" vAlign="middle" fill="scale" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n1" name="time" xy="2,20" size="34,16" fontSize="10" color="#ffffff" align="right" vAlign="bottom" autoSize="none" strokeColor="#000000" strokeSize="1" text="9" touchable="false">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </text>
+  </displayList>
+</component>

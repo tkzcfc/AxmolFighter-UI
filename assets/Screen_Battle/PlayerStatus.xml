@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="420,120" opaque="false">
+  <displayList>
+    <image id="n0" name="frame" src="a4frm" xy="12,16" size="96,88" touchable="false"/>
+    <loader id="n1" name="portrait" xy="26,24" size="68,72" url="ui://mipzrni9a5por" align="center" vAlign="middle" fill="scale" touchable="false"/>
+    <text id="n2" name="name" xy="120,12" size="190,32" fontSize="22" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="1" text="主角"/>
+    <text id="n3" name="level" xy="316,16" size="92,26" fontSize="18" color="#ffe08a" align="right" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="1" text="Lv.12"/>
+    <component id="n4" name="hpBar" src="h2hpb" xy="120,52" size="284,26" fileName="HpBar.xml">
+      <ProgressBar value="800" max="1000"/>
+    </component>
+    <component id="n5" name="mpBar" src="m3mpb" xy="120,86" size="284,18" fileName="MpBar.xml">
+      <ProgressBar value="40" max="50"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,56" opaque="false">
+  <displayList>
+    <text id="n0" name="name" xy="8,2" size="240,24" fontSize="18" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="1" text="怪物"/>
+    <text id="n1" name="level" xy="252,2" size="140,24" fontSize="16" color="#ffe08a" align="right" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="1" text="Lv.8"/>
+    <component id="n2" name="hpBar" src="t1hpb" xy="8,30" size="384,18" fileName="TargetHpBar.xml">
+      <ProgressBar value="100" max="100"/>
+    </component>
+  </displayList>
+</component>

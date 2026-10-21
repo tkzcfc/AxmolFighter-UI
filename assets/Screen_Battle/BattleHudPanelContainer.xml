@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" opaque="false">
+  <displayList>
+    <component id="n0" name="targetBar" src="t6bar" xy="440,60" size="400,56" fileName="TargetBar.xml">
+      <relation target="" sidePair="center-center,top-top"/>
+    </component>
+    <component id="n1" name="bossBar" src="b7bos" xy="330,60" size="620,100" fileName="BossBar.xml">
+      <relation target="" sidePair="center-center,top-top"/>
+    </component>
+    <list id="n2" name="buffList" xy="20,120" size="300,40" layout="row" overflow="hidden" colGap="4" lineGap="0" align="left" vAlign="middle" defaultItem="ui://mipzrni9f1buf" autoItemSize="true" selectionMode="none">
+      <relation target="" sidePair="left-left,top-top"/>
+    </list>
+  </displayList>
+</component>

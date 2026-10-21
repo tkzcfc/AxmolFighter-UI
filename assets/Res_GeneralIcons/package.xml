@@ -615,6 +615,9 @@
     <image id="rrza9q" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_lan.png" path="/NormalIcon/" exported="true"/>
     <image id="rrza9r" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_lv.png" path="/NormalIcon/" exported="true"/>
     <image id="rrza9s" name="image_nfy_common_ui_zhuangbei_zhujiemian_zhuangbeikuang_zi.png" path="/NormalIcon/" exported="true"/>
+    <image id="hxlish" name="ui_tx_lishihe.png" path="/HeadIcon/" exported="true"/>
+    <image id="hxlise" name="ui_tx_liseyu.png" path="/HeadIcon/" exported="true"/>
+    <image id="hxyoul" name="ui_tx_youli.png" path="/HeadIcon/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

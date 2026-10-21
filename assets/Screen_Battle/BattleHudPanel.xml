@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" opaque="false">
+  <displayList>
+    <loader id="n0" name="container" xy="0,0" size="1280,720" url="ui://mipzrni9m8ctr" align="center" vAlign="middle" fill="scaleMatchWidth">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1" name="playerStatus" src="p5sts" xy="16,12" size="420,120" fileName="PlayerStatus.xml">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n2" name="pauseButton" src="u2pse" xy="425,0" size="430,54" fileName="PauseButton.xml">
+      <relation target="" sidePair="center-center,top-top"/>
+    </component>
+    <component id="n3" name="skillPad" src="s9pad" xy="804,384" size="460,320" fileName="SkillPad.xml">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <component id="n4" name="joystick" src="j4stk" xy="16,444" size="260,260" fileName="Joystick.xml">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

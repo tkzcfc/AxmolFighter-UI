@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,90" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_bg" name="bg" src="e0kuz" xy="0,0" size="90,90" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n1_ic" name="icon" xy="11,11" size="68,68" align="center" vAlign="middle" fill="scale" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n2_cd" name="cdMask" xy="0,0" size="90,90" url="ui://mipzrni9e1cdq" align="center" vAlign="middle" fill="scale" fillMethod="radial360" fillOrigin="0" fillClockwise="true" fillAmount="1" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n3_tx" name="cd" xy="0,30" size="90,30" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" text="" touchable="false">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.95"/>
+</component>
