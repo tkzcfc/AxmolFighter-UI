@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="mmcfj5y4">
   <resources>
-    <component id="dy830" name="LaunchView.xml" path="/" exported="true"/>
+    <component id="dy830" name="LaunchScreen.xml" path="/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

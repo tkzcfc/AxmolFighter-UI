@@ -102,7 +102,7 @@
     <image id="jtkp3q" name="ui_zjm_caidan_baisedi_shan_xiao.png" path="/Images/Menu/"/>
     <image id="jtkp3r" name="ui_zjm_caidan_baisedi_shan_zhong.png" path="/Images/Menu/"/>
     <image id="jtkp3s" name="ui_zjm_caidan_baisedi_xiao.png" path="/Images/Menu/"/>
-    <component id="ilnm42" name="TownView.xml" path="/" exported="true"/>
+    <component id="ilnm42" name="TownScreen.xml" path="/" exported="true"/>
     <component id="ilnm43" name="TouchLayer.xml" path="/Widgets/"/>
     <component id="ilnm44" name="MainMenuButton.xml" path="/Widgets/"/>
   </resources>

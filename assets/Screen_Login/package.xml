@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="m7cln76g">
   <resources>
-    <component id="edc13" name="LoginViewContainer.xml" path="/" exported="true"/>
+    <component id="edc13" name="LoginScreenContainer.xml" path="/" exported="true"/>
     <component id="edc1m" name="InputBox.xml" path="/Widgets/"/>
     <component id="edc1q" name="ButtonBlue.xml" path="/Widgets/"/>
     <image id="edc110" name="input_box_default.png" path="/Images/" scale="9grid" scale9grid="15,15,30,30"/>
@@ -32,7 +32,7 @@
     <misc id="mwfi1g" name="ui_tx_fengmiantexiao.atlas" path="/Animation/" exported="true"/>
     <image id="mwfi1h" name="ui_tx_fengmiantexiao.png" path="/Animation/" exported="true"/>
     <spine id="mwfi1f" name="ui_tx_fengmiantexiao.skel" path="/Animation/" exported="true" width="701" height="117" require="mwfi1g,mwfi1h" atlasNames="ui_tx_fengmiantexiao" anchor="378,-350"/>
-    <component id="i3uk5q" name="LoginView.xml" path="/" exported="true"/>
+    <component id="i3uk5q" name="LoginScreen.xml" path="/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="xsbz3guo">
   <resources>
-    <folder id="/ImagesAlone/" name="ImagesAlone" path="/" atlas="alone_npot"/>
     <image id="edc14" name="ui_toast_bg.png" path="/Images/" exported="true"/>
     <component id="edc17" name="Component1.xml" path="/"/>
     <font id="edc18" name="Faint-DNF-Song-12px-Medium.ttf" path="/Fonts/" exported="true" renderMode="" samplePointSize="16"/>
@@ -292,18 +291,6 @@
     <component id="pi8u1" name="LoadingProgressBar.xml" path="/Widgets/" exported="true"/>
     <image id="sz4e5" name="ui_load_zi_0.png" path="/Images/" exported="true"/>
     <component id="jtkpc" name="LoadingLayer.xml" path="/" exported="true"/>
-    <image id="jtkpb1" name="ui_load_bj_2.jpg" path="/ImagesAlone/" exported="true"/>
-    <image id="jtkpb2" name="ui_load_zi_1.png" path="/ImagesAlone/" exported="true"/>
-    <image id="jtkpb3" name="ui_load_zi_2.png" path="/ImagesAlone/" exported="true"/>
-    <image id="jtkpb4" name="ui_load_zi_3.png" path="/ImagesAlone/" exported="true"/>
-    <image id="jtkpb5" name="ui_load_zi_4.png" path="/ImagesAlone/" exported="true"/>
-    <image id="jtkpb6" name="ui_load_zi_5.png" path="/ImagesAlone/" exported="true"/>
-    <image id="jtkpb7" name="ui_load_zi_6.png" path="/ImagesAlone/" exported="true"/>
-    <image id="jtkpb8" name="ui_load_bj_6.jpg" path="/ImagesAlone/" exported="true"/>
-    <image id="jtkpb9" name="ui_load_bj_1.jpg" path="/ImagesAlone/" exported="true"/>
-    <image id="jtkpba" name="ui_load_bj_3.jpg" path="/ImagesAlone/" exported="true"/>
-    <image id="jtkpbb" name="ui_load_bj_4.jpg" path="/ImagesAlone/" exported="true"/>
-    <image id="jtkpbc" name="ui_load_bj_5.jpg" path="/ImagesAlone/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="vwuvp1rv">
+  <resources>
+    <folder id="/ImagesAlone/" name="ImagesAlone" path="/" atlas="alone_npot"/>
+    <image id="jtkpb1" name="ui_load_bj_2.jpg" path="/ImagesAlone/" exported="true"/>
+    <image id="jtkpb2" name="ui_load_zi_1.png" path="/ImagesAlone/" exported="true"/>
+    <image id="jtkpb3" name="ui_load_zi_2.png" path="/ImagesAlone/" exported="true"/>
+    <image id="jtkpb4" name="ui_load_zi_3.png" path="/ImagesAlone/" exported="true"/>
+    <image id="jtkpb5" name="ui_load_zi_4.png" path="/ImagesAlone/" exported="true"/>
+    <image id="jtkpb6" name="ui_load_zi_5.png" path="/ImagesAlone/" exported="true"/>
+    <image id="jtkpb7" name="ui_load_zi_6.png" path="/ImagesAlone/" exported="true"/>
+    <image id="jtkpb8" name="ui_load_bj_6.jpg" path="/ImagesAlone/" exported="true"/>
+    <image id="jtkpb9" name="ui_load_bj_1.jpg" path="/ImagesAlone/" exported="true"/>
+    <image id="jtkpba" name="ui_load_bj_3.jpg" path="/ImagesAlone/" exported="true"/>
+    <image id="jtkpbb" name="ui_load_bj_4.jpg" path="/ImagesAlone/" exported="true"/>
+    <image id="jtkpbc" name="ui_load_bj_5.jpg" path="/ImagesAlone/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -162,8 +162,8 @@
     <spine id="mwfi54" name="ditu_xuanren.skel" path="/Animation/" width="4424" height="1480" require="mwfi55,mwfi56" atlasNames="ditu_xuanren" anchor="2123,1306"/>
     <image id="mwfi57" name="image_fy_login_ui_zi_juesexuanze_yixuanze.png" path="/Img_CeatePlayer/"/>
     <image id="mwfi58" name="image_fy_login_yinying.png" path="/Img_CeatePlayer/"/>
-    <component id="mwfi59" name="CharacterLobbyViewBG.xml" path="/ChoosePlayer/"/>
-    <component id="mwfi5a" name="CharacterLobbyView.xml" path="/ChoosePlayer/" exported="true"/>
+    <component id="mwfi59" name="CharacterLobbyScreenBG.xml" path="/ChoosePlayer/"/>
+    <component id="mwfi5a" name="CharacterLobbyScreen.xml" path="/ChoosePlayer/" exported="true"/>
     <misc id="mwfi5c" name="tx_ui_xuanzejuese.atlas" path="/Animation/"/>
     <image id="mwfi5d" name="tx_ui_xuanzejuese.png" path="/Animation/"/>
     <spine id="mwfi5b" name="tx_ui_xuanzejuese.skel" path="/Animation/" width="100" height="100" require="mwfi5c,mwfi5d" atlasNames="tx_ui_xuanzejuese" anchor="100,100"/>
