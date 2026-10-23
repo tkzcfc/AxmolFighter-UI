@@ -4,6 +4,8 @@
     <component id="wpn0" name="WeaponMainPanel.xml" path="/WeaponMainPanel/" exported="true"/>
     <component id="wpn1" name="WeaponMainPanelContainer.xml" path="/WeaponMainPanel/"/>
     <component id="wpn2" name="WeaponItem.xml" path="/WeaponMainPanel/" exported="true"/>
+    <component id="wpn3" name="WeaponSkillPreviewDialog.xml" path="/WeaponMainPanel/" exported="true"/>
+    <component id="wpn4" name="WeaponFormPreviewDialog.xml" path="/WeaponMainPanel/" exported="true"/>
   </resources>
   <publish name=""/>
 </packageDescription>
