@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="96,128" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <graph id="n0_skl" name="n0" xy="0,0" size="96,128" type="rect" lineSize="1" lineColor="#ff666699" fillColor="#ff252840">
+      <relation target="" sidePair="width-width,height-height"/>
+      <gearDisplay controller="button" pages="1,3"/>
+    </graph>
+    <graph id="n1_skl" name="n1" xy="0,0" size="96,128" type="rect" lineSize="1" lineColor="#ff444466" fillColor="#ff1a1c28">
+      <relation target="" sidePair="width-width,height-height"/>
+      <gearDisplay controller="button" pages="0,2"/>
+    </graph>
+    <loader id="n2_skl" name="icon" xy="8,8" size="80,80" align="center" vAlign="middle" fill="scale" clearOnPublish="true"/>
+    <graph id="n3_skl" name="loaderSelectGlow" xy="0,0" size="96,128" type="rect" lineSize="3" lineColor="#ff66ccff" fillColor="#00ffffff" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n4_skl" name="title" xy="2,90" size="92,34" fontSize="12" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="">
+      <relation target="" sidePair="width-width"/>
+    </text>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

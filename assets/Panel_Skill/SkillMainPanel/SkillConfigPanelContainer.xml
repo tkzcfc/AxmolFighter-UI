@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <text id="n0_skl" name="titleText" xy="80,24" size="700,36" fontSize="28" color="#ffffff" autoSize="none" text="技能槽配置"/>
+    <text id="n1_skl" name="hintText" xy="80,64" size="1100,28" fontSize="16" color="#aaaaaa" autoSize="none" text="先点技能槽，再点下方技能进行装配；点清空可移除。"/>
+    <list id="n2_skl" name="slotList" xy="40,110" size="1200,140" layout="flow_hz" overflow="scroll" lineGap="8" colGap="8" lineItemCount="12" defaultItem="ui://skl7n4p2skl5" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n3_skl" name="skillList" xy="40,280" size="1200,360" layout="flow_hz" overflow="scroll" lineGap="8" colGap="8" lineItemCount="8" defaultItem="ui://skl7n4p2skl2" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_skl" name="btnClearSlot" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="40,660">
+      <Button title="清空槽位"/>
+    </component>
+    <component id="n5_skl" name="btnReset" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="220,660">
+      <Button title="重置默认"/>
+    </component>
+  </displayList>
+</component>

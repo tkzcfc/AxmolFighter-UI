@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="skl7n4p2">
+  <resources>
+    <component id="skl0" name="SkillMainPanel.xml" path="/SkillMainPanel/" exported="true"/>
+    <component id="skl1" name="SkillMainPanelContainer.xml" path="/SkillMainPanel/"/>
+    <component id="skl2" name="SkillItem.xml" path="/SkillMainPanel/" exported="true"/>
+    <component id="skl3" name="SkillConfigPanel.xml" path="/SkillMainPanel/" exported="true"/>
+    <component id="skl4" name="SkillConfigPanelContainer.xml" path="/SkillMainPanel/"/>
+    <component id="skl5" name="SkillSlotItem.xml" path="/SkillMainPanel/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
