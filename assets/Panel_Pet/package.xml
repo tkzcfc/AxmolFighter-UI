@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="petw8n4k">
+  <resources>
+    <component id="pet0" name="PetMainPanel.xml" path="/PetMainPanel/" exported="true"/>
+    <component id="pet1" name="PetMainPanelContainer.xml" path="/PetMainPanel/"/>
+    <component id="pet2" name="PetItem.xml" path="/PetMainPanel/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

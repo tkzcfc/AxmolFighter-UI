@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n0_pet" name="bg" xy="0,0" size="1280,720" type="rect" lineSize="0" fillColor="#ef141820">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n1_pet" name="container" xy="0,0" size="1280,720" url="ui://petw8n4kpet1" fill="scaleMatchWidth">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n2_pet" name="btnBack" src="mwfiav" fileName="Widgets/ButtonBack.xml" pkg="xsbz3guo" xy="0,0"/>
+  </displayList>
+</component>
