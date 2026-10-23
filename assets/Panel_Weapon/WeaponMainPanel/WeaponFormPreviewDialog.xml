@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="720,720">
+<component size="520,600">
   <displayList>
-    <graph id="n0_wpn" name="bg" xy="0,0" size="720,720" type="rect" lineSize="0" fillColor="#f0141820">
-      <relation target="" sidePair="width-width,height-height"/>
-    </graph>
-    <text id="n1_wpn" name="titleText" xy="24,16" size="500,36" fontSize="24" color="#ffffff" text="形态预览"/>
-    <loader3D id="n2_wpn" name="loaderAvatar" xy="160,120" size="400,500" align="center" vAlign="bottom" animation="" skin="" loop="true"/>
-    <component id="n3_wpn" name="btnClose" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="270,640">
+    <graph id="n0_wpn" name="bg" xy="0,0" size="520,600" type="rect" lineSize="0" fillColor="#e0141820"/>
+    <text id="n1_wpn" name="titleText" xy="20,12" size="400,32" fontSize="22" color="#ffffff" text="形态预览"/>
+    <loader3D id="n2_wpn" name="loaderAvatar" xy="60,50" size="400,480" align="center" vAlign="bottom" animation="" skin="" loop="true"/>
+    <component id="n3_wpn" name="btnClose" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="170,530">
       <Button title="关闭"/>
     </component>
   </displayList>
