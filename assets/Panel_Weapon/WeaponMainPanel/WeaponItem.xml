@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,48" extention="Button">
+  <Button mode="Radio"/>
+  <displayList>
+    <graph id="n0_wpn" name="n0" xy="0,0" size="500,48" type="rect" lineSize="0" fillColor="#ff2a2e38">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n1_wpn" name="title" xy="12,10" size="476,28" fontSize="18" color="#ffffff" autoSize="none" text="armament">
+      <relation target="" sidePair="width-width"/>
+    </text>
+  </displayList>
+</component>
