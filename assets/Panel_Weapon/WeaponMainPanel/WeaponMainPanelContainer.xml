@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1280,720">
   <displayList>
-    <text id="n0_wpn" name="titleText" xy="80,24" size="400,36" fontSize="28" color="#ffffff" text="武装"/>
-    <list id="n1_wpn" name="itemList" xy="40,80" size="520,600" overflow="scroll" lineGap="6" defaultItem="ui://wpnk8m2qwpn2" autoClearItems="true">
+    <text id="n0_wpn" name="titleText" xy="80,24" size="520,36" fontSize="28" color="#ffffff" autoSize="none" text="武装"/>
+    <list id="n1_wpn" name="itemList" xy="40,80" size="560,560" layout="flow_hz" overflow="scroll" lineGap="8" colGap="8" lineItemCount="4" defaultItem="ui://wpnk8m2qwpn2" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
       <item/>
     </list>
-    <text id="n2_wpn" name="detailText" xy="600,100" size="620,280" fontSize="20" color="#dddddd" autoSize="height" text="Select an armament"/>
-    <component id="n3_wpn" name="btnAppearance" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="600,420">
+    <text id="n2_wpn" name="detailText" xy="640,80" size="580,300" fontSize="18" color="#dddddd" autoSize="none" text="Select an armament"/>
+    <loader id="n8_wpn" name="previewIcon" xy="640,400" size="160,160" align="center" vAlign="middle" fill="scale"/>
+    <component id="n3_wpn" name="btnAppearance" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="640,580">
       <Button title="设为外观"/>
     </component>
-    <component id="n4_wpn" name="btnSkill" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="780,420">
+    <component id="n4_wpn" name="btnSkill" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="820,580">
       <Button title="技能"/>
     </component>
-    <component id="n5_wpn" name="btnLevel" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="600,500">
+    <component id="n5_wpn" name="btnLevel" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="640,650">
       <Button title="升级"/>
     </component>
-    <component id="n6_wpn" name="btnStar" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="780,500">
+    <component id="n6_wpn" name="btnStar" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="820,650">
       <Button title="升星"/>
     </component>
-    <component id="n7_wpn" name="btnGrade" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="960,500">
+    <component id="n7_wpn" name="btnGrade" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="1000,650">
       <Button title="进阶"/>
     </component>
   </displayList>
