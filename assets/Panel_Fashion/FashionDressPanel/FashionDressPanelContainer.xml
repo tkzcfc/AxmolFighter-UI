@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <loader3D id="n0_drs" name="loaderAvatar" xy="520,560" size="240,400" animation="" skin="" loop="true"/>
+    <list id="n1_drs" name="tabList" xy="40,80" size="160,520" overflow="scroll" lineGap="8" defaultItem="ui://i3yu46g1jtkp12" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n2_drs" name="itemList" xy="820,80" size="420,480" layout="flow_hz" overflow="scroll" lineGap="8" colGap="8" lineItemCount="4" defaultItem="ui://i3yu46g1jtkp6" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n3_drs" name="titleText" xy="820,30" size="280,36" fontSize="24" color="#ffffff" text="装扮"/>
+    <text id="n4_drs" name="hintText" xy="820,570" size="400,30" fontSize="16" color="#cccccc" text="点击套装整体穿戴；点击单件覆盖部位"/>
+    <component id="n5_drs" name="btnSave" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="980,620">
+      <Button title="保存"/>
+    </component>
+  </displayList>
+</component>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="135,150">
+<component size="135,150" opaque="true">
   <displayList>
+    <image id="n2_vis" name="bg" src="jtkp3m" fileName="Images/Menu/ui_zjm_caidan_baisedi_da.png" xy="17,10" size="100,100"/>
     <loader3D id="n1_ilnm" name="loaderIcon" xy="20,15" size="100,100" animation="" skin="" loop="true"/>
-    <image id="n0_ilnm" name="n0" src="jtkp3k" fileName="Images/Menu/ui_zhucheng_zi_caidan.png" xy="71,120"/>
+    <image id="n0_ilnm" name="labelImage" src="jtkp3k" fileName="Images/Menu/ui_zhucheng_zi_caidan.png" xy="39,118"/>
   </displayList>
 </component>

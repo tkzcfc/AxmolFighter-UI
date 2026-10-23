@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,200" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <graph id="n0_suit" name="loaderEmptyBg" xy="0,0" size="130,200" touchable="false" type="rect" lineSize="0" fillColor="#ff1a1a28">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n1_suit" name="icon" xy="0,0" size="130,200" touchable="false" align="center" vAlign="middle" fill="scaleMatchHeight">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n2_suit" name="loaderSelectGlow" xy="-8,-8" size="146,216" visible="false" touchable="false" url="ui://i3yu46g1jtkp14" fill="scaleFree">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button mode="Radio"/>
+</component>
