@@ -8,15 +8,15 @@
       <item/>
       <item/>
     </list>
-    <text id="n2_pet" name="detailText" xy="640,40" size="580,280" fontSize="16" color="#dddddd" autoSize="none" text="Select a pet"/>
-    <loader id="n3_pet" name="previewIcon" xy="720,340" size="200,200" align="center" vAlign="middle" fill="scale" clearOnPublish="true"/>
-    <component id="n4_pet" name="btnActive" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="640,560">
+    <text id="n2_pet" name="detailText" xy="640,40" size="580,240" fontSize="16" color="#dddddd" autoSize="none" text="Select a pet"/>
+    <loader3D id="n3_pet" name="previewSpine" xy="680,300" size="400,320" align="center" vAlign="bottom" animation="" skin="" loop="true"/>
+    <component id="n4_pet" name="btnActive" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="640,640">
       <Button title="设为跟随"/>
     </component>
-    <component id="n5_pet" name="btnLevel" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="820,560">
+    <component id="n5_pet" name="btnLevel" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="820,640">
       <Button title="升级"/>
     </component>
-    <component id="n6_pet" name="btnStar" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="1000,560">
+    <component id="n6_pet" name="btnStar" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="1000,640">
       <Button title="升星"/>
     </component>
   </displayList>
