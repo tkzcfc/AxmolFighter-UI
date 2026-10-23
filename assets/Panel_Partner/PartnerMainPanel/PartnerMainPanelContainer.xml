@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <text id="n0_prt" name="titleText" xy="80,24" size="520,36" fontSize="28" color="#ffffff" autoSize="none" text="伙伴"/>
+    <list id="n1_prt" name="itemList" xy="40,80" size="560,560" layout="flow_hz" overflow="scroll" lineGap="8" colGap="8" lineItemCount="4" defaultItem="ui://prtw8n4kprt2" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n2_prt" name="detailText" xy="640,40" size="580,240" fontSize="16" color="#dddddd" autoSize="none" text="Select a partner"/>
+    <loader3D id="n3_prt" name="previewSpine" xy="680,300" size="400,320" align="center" vAlign="bottom" animation="" skin="" loop="true"/>
+    <component id="n4_prt" name="btnActive" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="640,640">
+      <Button title="设为出战"/>
+    </component>
+    <component id="n5_prt" name="btnLevel" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="820,640">
+      <Button title="升级"/>
+    </component>
+    <component id="n6_prt" name="btnStar" src="rrzaah" fileName="Widgets/ButtonYes.xml" pkg="xsbz3guo" xy="1000,640">
+      <Button title="升星"/>
+    </component>
+  </displayList>
+</component>

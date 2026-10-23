@@ -2,26 +2,41 @@
 <component size="422,640">
   <displayList>
     <image id="n11_ilnm" name="n11" src="jtkp16" fileName="Images/Menu/ui_zjm_caidan_diban.png" xy="0,0"/>
-    <component id="n2_jtkp" name="dressButton" src="jtkp7" fileName="CityMainLayer/Component1.xml" xy="31,89"/>
-    <component id="n3_jtkp" name="weaponButton" src="jtkp7" fileName="CityMainLayer/Component1.xml" xy="125,89">
+    <component id="n2_jtkp" name="dressButton" src="jtkp7" fileName="Widgets/MenuButton.xml" xy="31,89"/>
+    <component id="n3_jtkp" name="weaponButton" src="jtkp7" fileName="Widgets/MenuButton.xml" xy="125,89">
       <property target="n_press" propertyId="1" value="ui://iejdjmxgjtkp3e"/>
       <property target="n_normal" propertyId="1" value="ui://iejdjmxgjtkp3d"/>
       <property target="n_disable" propertyId="1" value="ui://iejdjmxgjtkp3c"/>
     </component>
-    <component id="n4_jtkp" name="equipButton" src="jtkp7" fileName="CityMainLayer/Component1.xml" xy="219,89">
+    <component id="n4_jtkp" name="equipButton" src="jtkp7" fileName="Widgets/MenuButton.xml" xy="219,89">
       <property target="n_press" propertyId="1" value="ui://iejdjmxgjtkp3h"/>
       <property target="n_normal" propertyId="1" value="ui://iejdjmxgjtkp3g"/>
       <property target="n_disable" propertyId="1" value="ui://iejdjmxgjtkp3f"/>
     </component>
-    <component id="n5_jtkp" name="partnerButton" src="jtkp7" fileName="CityMainLayer/Component1.xml" xy="313,89">
+    <component id="n5_jtkp" name="partnerButton" src="jtkp7" fileName="Widgets/MenuButton.xml" xy="313,89">
       <property target="n_press" propertyId="1" value="ui://iejdjmxgjtkp1z"/>
       <property target="n_normal" propertyId="1" value="ui://iejdjmxgjtkp1y"/>
       <property target="n_disable" propertyId="1" value="ui://iejdjmxgjtkp1x"/>
     </component>
-    <component id="n6_jtkp" name="skillButton" src="jtkp7" fileName="CityMainLayer/Component1.xml" xy="31,169">
+    <component id="n6_jtkp" name="skillButton" src="jtkp7" fileName="Widgets/MenuButton.xml" xy="31,169">
       <property target="n_press" propertyId="1" value="ui://iejdjmxgjtkp2n"/>
       <property target="n_normal" propertyId="1" value="ui://iejdjmxgjtkp2m"/>
       <property target="n_disable" propertyId="1" value="ui://iejdjmxgjtkp2l"/>
+    </component>
+    <component id="n19_hflt" name="petButton" src="jtkp7" fileName="Widgets/MenuButton.xml" xy="125,169">
+      <property target="n_press" propertyId="1" value="ui://iejdjmxgjtkp1k"/>
+      <property target="n_normal" propertyId="1" value="ui://iejdjmxgjtkp1j"/>
+      <property target="n_disable" propertyId="1" value="ui://iejdjmxgjtkp1i"/>
+    </component>
+    <component id="n21_hflt" name="setupButton" src="jtkp7" fileName="Widgets/MenuButton.xml" xy="219,169">
+      <property target="n_press" propertyId="1" value="ui://iejdjmxgjtkp2q"/>
+      <property target="n_normal" propertyId="1" value="ui://iejdjmxgjtkp2p"/>
+      <property target="n_disable" propertyId="1" value="ui://iejdjmxgjtkp2o"/>
+    </component>
+    <component id="n20_hflt" name="bagButton" src="jtkp7" fileName="Widgets/MenuButton.xml" xy="313,169">
+      <property target="n_press" propertyId="1" value="ui://iejdjmxgjtkp1e"/>
+      <property target="n_normal" propertyId="1" value="ui://iejdjmxgjtkp1d"/>
+      <property target="n_disable" propertyId="1" value="ui://iejdjmxgjtkp1c"/>
     </component>
     <image id="n13_ilnm" name="n13" src="jtkp17" fileName="Images/Menu/ui_zjm_caidan_touxiangdi.png" xy="31,21"/>
     <loader id="n16_ilnm" name="loaderHeadIcon" xy="83,25" size="186,88" scale="0.55,0.55" url="ui://37kbt1d9ilnmj7" autoSize="true"/>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="prtk9m3q">
+  <resources>
+    <folder id="/Icons/" name="Icons" path="/" atlas="10"/>
+    <image id="b5d1be" name="ui_huoban_hud_di_tx1.png" path="/Icons/" exported="true"/>
+    <image id="943b88" name="ui_huoban_hud_di_tx2.png" path="/Icons/" exported="true"/>
+    <image id="2b5b7c" name="ui_huoban_hud_di_tx3.png" path="/Icons/" exported="true"/>
+    <image id="08f0b5" name="ui_huoban_hud_di_tx4.png" path="/Icons/" exported="true"/>
+    <image id="7d8363" name="ui_huoban_hud_di_tx5.png" path="/Icons/" exported="true"/>
+    <image id="58a646" name="ui_huoban_tx_1.png" path="/Icons/" exported="true"/>
+    <image id="615486" name="ui_huoban_tx_2.png" path="/Icons/" exported="true"/>
+    <image id="4986bf" name="ui_huoban_tx_2_hei.png" path="/Icons/" exported="true"/>
+    <image id="3ded46" name="ui_huoban_tx_3.png" path="/Icons/" exported="true"/>
+    <image id="daa953" name="ui_huoban_tx_3_hei.png" path="/Icons/" exported="true"/>
+    <image id="5c59e7" name="ui_huoban_tx_4.png" path="/Icons/" exported="true"/>
+    <image id="3ac00d" name="ui_huoban_tx_4_hei.png" path="/Icons/" exported="true"/>
+    <image id="f9a1b8" name="ui_huoban_tx_5.png" path="/Icons/" exported="true"/>
+    <image id="7ea511" name="ui_huoban_tx_5_hei.png" path="/Icons/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

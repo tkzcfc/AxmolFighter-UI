@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="prtw8n4k">
+  <resources>
+    <component id="prt0" name="PartnerMainPanel.xml" path="/PartnerMainPanel/" exported="true"/>
+    <component id="prt1" name="PartnerMainPanelContainer.xml" path="/PartnerMainPanel/"/>
+    <component id="prt2" name="PartnerItem.xml" path="/PartnerMainPanel/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
