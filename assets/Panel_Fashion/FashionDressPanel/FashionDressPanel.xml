@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1280,720">
   <displayList>
-    <loader id="n0_drs" name="bg" xy="0,0" size="1280,720" url="ui://i3yu46g1jtkp1" align="center" vAlign="middle" fill="scaleMatchHeight">
+    <loader id="n0_drs" name="bg" xy="0,0" size="1280,720" url="ui://i3yu46g1f0xl17" align="center" vAlign="middle" fill="scaleMatchHeight">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
     <loader id="n1_drs" name="container" xy="0,0" size="1280,720" url="ui://i3yu46g1jtkp11" fill="scaleMatchWidth">

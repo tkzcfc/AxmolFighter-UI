@@ -23,7 +23,7 @@
     <component id="n9_jtkp" name="fasionItem_Phantom" src="jtkp6" fileName="FashionMainPanel/FashionItem.xml" xy="203,390">
       <property target="loaderEmptyBg" propertyId="1" value="ui://i3yu46g1jtkp9"/>
     </component>
-    <loader3D id="n10_jtkp" name="n10" xy="590,472" size="100,100" animation="" skin="" loop="true"/>
+    <loader3D id="n10_jtkp" name="loaderAvatar" xy="645,579" pivot="0.5,1" anchor="true" size="240,400" scale="1.8,1.8" touchable="false" animation="" skin="" loop="true"/>
     <component id="n11_jtkp" name="btnToWalk" src="jtkph" fileName="FashionMainPanel/BtnToWalk.xml" xy="107,531"/>
   </displayList>
 </component>

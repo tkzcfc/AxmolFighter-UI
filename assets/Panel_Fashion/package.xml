@@ -2,7 +2,7 @@
 <packageDescription id="i3yu46g1">
   <resources>
     <component id="jtkp0" name="FashionMainPanel.xml" path="/FashionMainPanel/" exported="true"/>
-    <image id="jtkp1" name="ui_shizhuang_beijing.jpg" path="/Images/"/>
+    <image id="jtkp1" name="ui_shizhuang_beijing.jpg" path="/ImagesAlone/"/>
     <image id="jtkp2" name="image_nfy_fashion_ui_shizhuang_biaoti_fushi.png" path="/Images/"/>
     <image id="jtkp3" name="image_nfy_fashion_ui_shizhuang_biaoti_guanghuan.png" path="/Images/"/>
     <image id="jtkp4" name="image_nfy_fashion_ui_shizhuang_biaoti_zhuangshi.png" path="/Images/"/>
@@ -28,6 +28,9 @@
     <component id="jtkp13" name="FashionSuitItem.xml" path="/FashionDressPanel/" exported="true"/>
     <image id="jtkp14" name="ui_shizhuang_xuanzhongkuang.png" path="/Images/" exported="true"/>
     <image id="jtkp15" name="ui_shizhuang_xuanzhongkuang2.png" path="/Images/" exported="true"/>
+    <image id="f0xl16" name="image_nfy_fashion_ui_shizhuang_zhanshi_dikuang.png" path="/Images/"/>
+    <image id="f0xl17" name="ui_chongwu_beijing.jpg" path="/ImagesAlone/"/>
+    <folder id="/ImagesAlone/" name="ImagesAlone" path="/" atlas="alone_npot"/>
   </resources>
   <publish name=""/>
 </packageDescription>

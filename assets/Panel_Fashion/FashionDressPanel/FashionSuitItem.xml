@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="130,200" extention="Button">
-  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+<component size="140,192" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="1"/>
   <displayList>
-    <graph id="n0_suit" name="loaderEmptyBg" xy="0,0" size="130,200" touchable="false" type="rect" lineSize="0" fillColor="#ff1a1a28">
+    <image id="n3_f0xl" name="n3" src="f0xl16" fileName="Images/image_nfy_fashion_ui_shizhuang_zhanshi_dikuang.png" xy="1,3" size="143,192">
       <relation target="" sidePair="width-width,height-height"/>
-    </graph>
-    <loader id="n1_suit" name="icon" xy="0,0" size="130,200" touchable="false" align="center" vAlign="middle" fill="scaleMatchHeight">
-      <relation target="" sidePair="width-width,height-height"/>
-    </loader>
-    <loader id="n2_suit" name="loaderSelectGlow" xy="-8,-8" size="146,216" visible="false" touchable="false" url="ui://i3yu46g1jtkp14" fill="scaleFree">
+    </image>
+    <loader id="n1_suit" name="icon" xy="2,18" size="139,153" touchable="false" url="ui://r9fsuit1qi0177" align="center" vAlign="middle" fill="scale" clearOnPublish="true"/>
+    <loader id="n6_f0xl" name="loaderQuality" xy="3,3" size="46,33" scale="0.7,0.7" url="ui://37kbt1d9rrza2x" autoSize="true"/>
+    <loader id="n2_suit" name="loaderSelectGlow" xy="-8,-8" size="157,206" visible="false" touchable="false" url="ui://i3yu46g1jtkp14" fill="scaleFree">
       <gearDisplay controller="button" pages="1,3"/>
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
+    <text id="n4_f0xl" name="title" xy="69,179" pivot="0.5,0.5" anchor="true" size="60,22" scale="0.7,0.7" fontSize="14" text="唤神遣鬼"/>
   </displayList>
   <Button mode="Radio"/>
 </component>
