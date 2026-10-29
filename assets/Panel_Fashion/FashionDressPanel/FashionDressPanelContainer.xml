@@ -7,7 +7,7 @@
       <item/>
       <item/>
     </list>
-    <list id="n2_drs" name="itemList" xy="820,80" size="436,512" layout="flow_hz" overflow="scroll" lineGap="8" colGap="8" lineItemCount="4" defaultItem="ui://i3yu46g1jtkp6" autoClearItems="true">
+    <list id="n2_drs" name="itemList" xy="820,80" size="436,512" layout="flow_hz" overflow="scroll" margin="10,10,0,0" lineGap="8" colGap="8" lineItemCount="4" defaultItem="ui://i3yu46g1jtkp6" autoClearItems="true">
       <item/>
       <item/>
       <item/>
@@ -19,5 +19,7 @@
       <Button title="保存"/>
     </component>
     <component id="n6_f0xl" name="btnToWalk" src="jtkph" fileName="FashionMainPanel/BtnToWalk.xml" xy="224,80"/>
+    <graph id="n7_f0xl" name="n7" xy="215,570" size="402,22" type="rect" fillColor="#ff000000"/>
+    <loader id="n8_f0xl" name="n8" xy="222,561" size="50,50" url="ui://37kbt1d9rrza2v"/>
   </displayList>
 </component>
